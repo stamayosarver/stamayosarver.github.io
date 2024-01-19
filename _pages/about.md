@@ -6,7 +6,7 @@ title: "About Samuel Tamayo-Sarver"
 
 ## Education
 
-Samuel skills are developing at Vanderbilt University, at the moment Sam's greatest skill lies in woodworking, 3-D printing, and 3-D modeling (CADD) 
+Samuel's skills are developing at Vanderbilt University; at the moment, Sam's greatest skill lies in woodworking, 3-D printing, and 3-D modeling (CADD) 
 
 * Vanderbilt University
   * Expected Graduating Class of 2027
@@ -48,8 +48,8 @@ I hope to work in the biotechnology industry for product development or invent s
 **	Basic Computer Aided Machining
 *	Shop skills (Beginner level)
 **	Sheet metal, rivets, and hinges
-**	Sandcasting
-**	Oxy-Acetylene and Arc Welding
+**	Sand casting
+**	Oxy-acetylene and Arc Welding
 ** Forging
 *	Woodworking (Adept)
 **	Briar Smoking pipes
