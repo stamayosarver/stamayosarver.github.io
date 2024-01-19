@@ -16,6 +16,5 @@ gallery:
 * **Controlled Volume Output** By customizing the rate of the linear actuator, the volume released by the syringe pump can also be controlled. Enabling the user to use the linear actuator for both high volume output and low volume output.
 
 # CAD Model
-<iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e817f50c3c936b1b2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
  {% include gallery caption="Syringe Pump Gallery" %}
