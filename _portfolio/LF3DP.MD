@@ -5,7 +5,7 @@ header:
   image: assets/img/Samuel_Tamayo-Sarver_Full_Assembly3.png
   teaser: assets/img/Samuel_Tamayo-Sarver_Full_Assembly3.png
 gallery:
-  - image_path: assets/img/Samuel_Tamayo-Sarver_Full_Assembly3.png
+  - image_path: assets/img/Linear-Rod-Actuator-Assembly-Annotated%20(3).png
    
 ---
 
