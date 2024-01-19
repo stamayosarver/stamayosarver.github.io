@@ -6,7 +6,7 @@ title: "About Samuel Tamayo-Sarver"
 
 ## Education
 
-Samuel prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Samuel skills are developing at Vanderbilt University, at the moment Sam's greatest skill lies in woodworking, 3-D printing, and 3-D modeling (CADD) 
 
 * Vanderbilt University
   * Expected Graduating Class of 2027
