@@ -1,1 +1,24 @@
+---
+title: "CAD Autocase program"
+excerpt: "A fusion 360 created API that takes a 3-D mesh and automatically creates a customizable case for a hobbyist's handmade gifts"
+header:
+  image: assets/img/Samuel_Tamayo-Sarver_Full_Assembly3.png
+  teaser: assets/img/Samuel_Tamayo-Sarver_Full_Assembly3.png
+gallery:
+  - image_path: assets/img/Linear-Rod-Actuator-Assembly-Annotated%20(3).png
+   
+---
+
+# CAD Modeling Pipeline
+
+* **AR App** App capable of creating a 3d meshes using CNNs and RNNs and categorizing commons items 
+* **Website Feature** Website (currently wireframed in figma) capable with customizing one's personalized case, choose a style case, a type of interior foam and design---then simply pay for it!  
+* **Direct Shipping** From the 3-D printing shop directly to your mailing box! No fuss, no problems, straight to you.
+
+# CAD Modeling Pipeline
+
+
+| Enclosure | 1 | 
+
+# Fusion 360 API code will be HERE
 
