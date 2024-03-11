@@ -12,7 +12,7 @@ gallery:
 
 * **LIDAR App** App capable of creating a 3d meshes using CNNs and RNNs and categorizing commons items 
   image: assets/img/Emb3D_AR_App.jpg
-* **Website Feature** Website (currently being wireframed in figma) capable of customizing one's personalized case, choose a style case, a type of interior foam, and design---then simply pay for it! 
+* **Website Feature** Website (currently being wireframed in figma) capable of customizing one's personalized case, choose a style case, a type of interior foam, and design. Then simply pay for it! 
 
 * **Production and Shipping** From the 3D print shop directly to your mailing box! No fuss, no problems, straight to you.
 
