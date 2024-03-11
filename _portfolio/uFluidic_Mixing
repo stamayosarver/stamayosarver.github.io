@@ -1,6 +1,6 @@
 ---
 title: "Micro Fluidic Mixing Device"
-excerpt: "Fluidic device which mixes two fluids at a micro scale."
+excerpt: "Fluidic device which mixes two fluids at a micro scale using homogenous mixing."
 header:
   Image: 
   teaser: /assets/img/uFluidic Device Render.png
