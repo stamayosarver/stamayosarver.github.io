@@ -18,7 +18,6 @@ gallery:
 # CAD Modeling Pipeline
 
 
-| Enclosure | 1 | 
 
 # Fusion 360 API code will be HERE
 
