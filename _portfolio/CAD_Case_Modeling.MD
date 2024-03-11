@@ -1,21 +1,21 @@
 ---
 title: "Custom Cases Done Easy and for Cheap"
-excerpt: "A fusion 360 created API that takes a 3-D mesh and automatically creates a customizable case for a hobbyist's handmade gifts"
-header:
+excerpt: "Pipeline for creation and delivering of a customizable case for a hobbyist's handmade gifts"
+header: "Case-Easy!"
   image: assets/img/DALL·E 2024-03-10 21.28.38 - A 3D model in Fusion 360 showing the design process for a custom-designed glasses case with a foam interior. The case is modeled to fit the glasses pe.webp
   teaser: assets/img/DALL·E 2024-03-10 21.28.38 - A 3D model in Fusion 360 showing the design process for a custom-designed glasses case with a foam interior. The case is modeled to fit the glasses pe.webp
 gallery:
-  - image_path: assets/img/Linear-Rod-Actuator-Assembly-Annotated%20(3).png
+  - image_path: assets/img/DALL·E 2024-03-10 21.28.38 - A 3D model in Fusion 360 showing the design process for a custom-designed glasses case with a foam interior. The case is modeled to fit the glasses pe.webp
    
 ---
 
 # CAD Modeling Pipeline
 
-* **AR App** App capable of creating a 3d meshes using CNNs and RNNs and categorizing commons items 
+* **LIDAR App** App capable of creating a 3d meshes using CNNs and RNNs and categorizing commons items 
   image: assets/img/Emb3D_AR_App.jpg
 * **Website Feature** Website (currently being wireframed in figma) capable of customizing one's personalized case, choose a style case, a type of interior foam, and design---then simply pay for it! 
 
-* **Direct Shipping** From the 3D print shop directly to your mailing box! No fuss, no problems, straight to you.
+* **Production and Shipping** From the 3D print shop directly to your mailing box! No fuss, no problems, straight to you.
 
 # Why? Why me?
 
