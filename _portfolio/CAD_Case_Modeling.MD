@@ -13,12 +13,13 @@ gallery:
 
 * **AR App** App capable of creating a 3d meshes using CNNs and RNNs and categorizing commons items 
   image: assets/img/Emb3D_AR_App.jpg
-* **Website Feature** Website (currently wireframed in figma) capable with customizing one's personalized case, choose a style case, a type of interior foam and design---then simply pay for it! 
+* **Website Feature** Website (currently being wireframed in figma) capable of customizing one's personalized case, choose a style case, a type of interior foam, and design---then simply pay for it! 
 
-* **Direct Shipping** From the 3-D printing shop directly to your mailing box! No fuss, no problems, straight to you.
+* **Direct Shipping** From the 3D print shop directly to your mailing box! No fuss, no problems, straight to you.
 
-# CAD Modeling Pipeline
+# Why? Why me?
 
+* "Easy-Case" is a groundbreaking approach, birthed from my experience in woodworking and the craft of briar pipe making. This process addresses a significant challenge within the artisan pipe-making community: the need for protective cases to prevent damage and enhance product value. Even a minor scratch could drastically reduce a pipe's value, and the current market for pipe cases has cases that scratch the wood instead of protecting it. A bespoke, custom-created case could substantially increase its attractiveness and price. Utilizing a combination of Fusion 360, a 3D scanner, and a filament 3D printer, I successfully created a cost-efficient, three-step manufacturing process suitable for producing custom cases. This three-step process is quite simple: Scan, process, and print. Unfortunately, shipping someone's pipe to me to process is not commercially scaleable or viable. An AR app that leverages LIDAR sensing and software algorithms (that may involve CNNs or RNNs) could solve this problem. Creating a Fusion 360 API that completes the necessary steps for processing can be developed. Finally, third-party 3-D print shops or in-house creation can be employed in the creation process. This pipeline is a passive pipeline with hopefully low involvement by me, a college student with no time. More importantly, this process will safeguard the artisanal products in a niche market, enabling an expansion into larger markets for everyday case needs and perhaps prosthetics. This method's foundation lies in my involvement in the niche market of unique woodworking creations and a profound understanding of essential technologies, digital fabrication, and 3D printing, underpinned by academic knowledge from Rapid Prototyping and Additive Manufacturing courses at Vanderbilt University. This abstract culminates in an overview of the creation pipeline and anticipates its effectiveness and scalability in promoting the value of handmade woodworking items. I hope to create an MVP and have consoled the Wondr'y by the end of the year --- I have a programmer and close friend, Shahwaiz, winner of Vandyhacks, willing to code the 3D mesh-creating app.
 
 
 
