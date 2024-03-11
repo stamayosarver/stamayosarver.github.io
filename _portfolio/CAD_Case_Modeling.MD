@@ -1,4 +1,5 @@
 ---
+
 title: "Artisinal Custom Cases Done Easy"
 excerpt: "Pipeline for creation and delivering of a customizable case for a hobbyist's handmade gifts"
 header: "Case-Easy!"
@@ -6,6 +7,7 @@ header: "Case-Easy!"
   teaser: assets/img/DALL·E 2024-03-10 21.28.38 - A 3D model in Fusion 360 showing the design process for a custom-designed glasses case with a foam interior. The case is modeled to fit the glasses pe.webp
 gallery:
   -assets/img/DALL·E 2024-03-10 21.28.38 - A 3D model in Fusion 360 showing the design process for a custom-designed glasses case with a foam interior. The case is modeled to fit the glasses pe.webp
+
 ---
 
 # CAD Modeling Pipeline
