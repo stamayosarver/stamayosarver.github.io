@@ -40,10 +40,10 @@ There are primarily two types of mixing in microfluidics — Active and Passive 
 
 Please see the image below for reference to my first geometric mixing strategy:
 
-![Geometric Mixing Strategy Reference](assets/img/1-s2.0-S026387621830042X-gr7.jpg)
+!(assets/img/1-s2.0-S026387621830042X-gr7.jpg)
 
 The exact dimensions used in the study can be seen below:
 
-![Dimensions for Microfluidic Device](assets/img/Dimensions_for_MicrofluidicDevice.jpg)
+!(assets/img/Dimensions_for_MicrofluidicDevice.jpg)
 
 The efficiency of these designs depends on the dimensions and shapes of the channels. For instance, in a zigzag microchannel, the width (w) and the step size (s) are crucial parameters. A narrower width and smaller step size increase the interface between the fluids, enhancing diffusion and thus mixing efficiency.
