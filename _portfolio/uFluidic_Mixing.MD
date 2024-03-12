@@ -40,8 +40,23 @@ There are primarily two types of mixing in microfluidics — Active and Passive 
 
 #[Insert image of table here](path/to/your/image.png)
 
-The efficiency of these designs depends on the dimensions and shapes of the channels. For instance, in a zigzag microchannel, the width (w) and the step size (s) are crucial parameters. A narrower width and smaller step size increase the interface between the fluids, enhancing diffusion and thus mixing efficiency.
+The efficiency of these designs depends on the dimensions and shapes of the channels. For instance, in a zigzag microchannel, the width (w) and the step size (s) are crucial parameters. A narrower width and smaller step size increase the fluid interface, enhancing diffusion and and thus the mixing efficiency.
 
 ## My Mixing Strategy and Why: Sam
 
 I chose my design based on the work of a few different articles, mainly due to one particular publication — “Mixing enhancement of a novel C-sar microfluidic mixer.” Chemical Engineering Research and Design. The mixing efficiency achieved with the parameters and design in the article was 90% with a wide range of Reynolds numbers ranging from 34.6 to 150. This design using a simple geometric pattern of precisely laid out triangles
+Please see the image below for reference to my first geometric mixing strategy 
+  image: "assets/img/1-s2.0-S026387621830042X-gr7.jpg"
+
+The exact dimensions used in the study can be seen below
+  image: "assets/img/Dimensions_for_MicrofluidicDevice.jpg"
+However, due to the limitations of the printing technologies made available to me my dimensions are slightly different, see below for my design dimensions
+#NOTE: image will be inserted once I am back from Spring Break and have access to the Fusion 360 file on my desktop
+The vortex motion results are modeled below
+  image: "assets/img/Analysis_of_splitandflow_mixing.jpg"
+
+Using these as models for my work, the parameters of my model can be expressed using the expressions...
+NOTE: Can not view parameters without access to Fusion 360 
+
+FUrther, the seond pattern used in my mixing was the use of a herringbone mixing pattern. My herringbone pattern is modeled after the results of the publicatio
+
