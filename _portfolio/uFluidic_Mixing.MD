@@ -42,7 +42,7 @@ There are primarily two types of mixing in microfluidics — Active and Passive 
 
 The efficiency of these designs depends on the dimensions and shapes of the channels. For instance, in a zigzag microchannel, the width (w) and the step size (s) are crucial parameters. A narrower width and smaller step size increase the fluid interface, enhancing diffusion and and thus the mixing efficiency.
 
-## My Mixing Strategy and Why: Sam
+## My Mixing Strategy and Why
 
 I chose my design based on the work of a few different articles, mainly due to one particular publication — “Mixing enhancement of a novel C-sar microfluidic mixer.” Chemical Engineering Research and Design. The mixing efficiency achieved with the parameters and design in the article was 90% with a wide range of Reynolds numbers ranging from 34.6 to 150. This design using a simple geometric pattern of precisely laid out triangles
 Please see the image below for reference to my first geometric mixing strategy 
