@@ -23,7 +23,10 @@ gallery:
 Here is a model of a current output by Fusion 360 API: 
 
 <iframe src="https://gmail1857987.autodesk360.com/shares/public/SHd38bfQT1fb47330c9904b35cdb5d9b0ebf?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+{% include gallery caption="PipeCaseGallery" %}
 
 Here is a final product, without substitution of a foam or use of a fancy case design. As a proof of concept this shows effectively what a case interior may look like:
 
 <iframe src="https://gmail1857987.autodesk360.com/shares/public/SHd38bfQT1fb47330c99ed620653fb235c15?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+{% include gallery caption="PipeCaseGallery2" %}
+
