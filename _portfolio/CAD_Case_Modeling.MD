@@ -1,5 +1,3 @@
-Image created via DALLE 
-
 ---
 title: "Artisinal Custom Cases Done Easy"
 excerpt: "Pipeline for creation and delivering of a customizable case for a hobbyist's handmade gifts"
