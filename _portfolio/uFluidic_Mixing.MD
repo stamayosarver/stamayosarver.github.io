@@ -47,11 +47,11 @@ The efficiency of these designs depends on the dimensions and shapes of the chan
 I chose my design based on the work of a few different articles, mainly due to one particular publication — “Mixing enhancement of a novel C-sar microfluidic mixer.” Chemical Engineering Research and Design. The mixing efficiency achieved with the parameters and design in the article was 90% with a wide range of Reynolds numbers ranging from 34.6 to 150. This design using a simple geometric pattern of precisely laid out triangles
 Please see the image below for reference to my first geometric mixing strategy 
 
-image: "assets/img/1-s2.0-S026387621830042X-gr7.jpg"
+#image: "assets/img/1-s2.0-S026387621830042X-gr7.jpg"
 
 The exact dimensions used in the study can be seen below
 
-image: "assets/img/Dimensions_for_MicrofluidicDevice.jpg"
+#image: "assets/img/Dimensions_for_MicrofluidicDevice.jpg"
 
 However, due to the limitations of the printing technologies made available to me my dimensions are slightly different, see below for my design dimensions
 
@@ -59,7 +59,7 @@ However, due to the limitations of the printing technologies made available to m
 
 The vortex motion results are modeled below
 
-image: "assets/img/Analysis_of_splitandflow_mixing.jpg"
+#image: "assets/img/Analysis_of_splitandflow_mixing.jpg"
 
 Using these as models for my work, the parameters of my model can be expressed using the expressions...
 NOTE: Can not view parameters without access to Fusion 360 
