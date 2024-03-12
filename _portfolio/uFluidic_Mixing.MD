@@ -2,10 +2,10 @@
 title: "Micro Fluidic Mixing Device"
 excerpt: "Fluidic device which mixes two fluids at a micro scale using homogenous mixing."
 header:
-  image: "assets/img/uFluidic Device Render.png"
-  teaser: "assets/img/uFluidic Device Render.png"
+  image: "assets/img/Microfluidic_Mixing_Snapshot.png"
+  teaser: "assets/img/Microfluidic_Mixing_Snapshot.png"
 gallery:
-  - image_path: "assets/img/uFluidic Device Render.png"
+  - image_path: "assets/img/Microfluidic_Mixing_Snapshot.png"
 ---
 
 *Note by Author* Unfortunately, my current computer, a desktop, cannot access the Fusion 360 file with its current version, until getting back to my dorm from New York after Spring Break or fixing of this apparent bug, renderings and the 3D model will, unfortunately, not be accessible.
