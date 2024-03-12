@@ -2,13 +2,13 @@
 title: "Micro Fluidic Mixing Device"
 excerpt: "Fluidic device which mixes two fluids at a micro scale using homogenous mixing."
 header:
-  image: "assets/img/Microfluidic_Mixing_Snapshot.png"
-  teaser: "assets/img/Microfluidic_Mixing_Snapshot.png"
+  image: "assets/img/uFluidic Device Render.png"
+  teaser: "assets/img/uFluidic Device Render.png"
 gallery:
-  - image_path: "assets/img/Microfluidic_Mixing_Snapshot.png"
+  - image_path: "assets/img/uFluidic Device Render.png"
 ---
 
-*Note by Author* Unfortunately, my current computer, a laptop, cannot access the Fusion 360 file with its current version, until getting back to my dorm from New York after Spring Break or fixing of this apparent bug, renderings and the 3D model will, unfortunately, not be accessible.
+*Note by Author* - Unfortunately, my current computer, a desktop, cannot access the Fusion 360 file with its current version, until getting back to my dorm from New York after Spring Break or fixing of this apparent bug, renderings and the 3D model will, unfortunately, not be accessible.
 
 # CAD Model
 
@@ -22,7 +22,7 @@ Microfluidic devices are a groundbreaking invention that has shifted the field o
 
 However, these microfluidic devices have been very hard to manufacture until recent discoveries and industry developments. See an excerpt of an article below:
 
-“Fabrication of microfluidic devices by photolithography generally requires specialized training and access to a cleanroom. As an alternative, 3D printing enables cost-effective fabrication of microdevices with complex features that would be suitable for many biomedical applications.” — “Rapid prototyping of cell culture microdevices using parylene-coated 3D prints” in Lab on a Chip
+> “Fabrication of microfluidic devices by photolithography generally requires specialized training and access to a cleanroom. As an alternative, 3D printing enables cost-effective fabrication of microdevices with complex features that would be suitable for many biomedical applications.” — “Rapid prototyping of cell culture microdevices using parylene-coated 3D prints” in Lab on a Chip
 
 Thankfully, with the careful expertise of Dr. David Florian of the Vanderbilt University Biomaterials Department, access to these culture-suitable 3D printing technology was made possible for me, a rising First-Year with little to no access to the more complex machinery and tools.
 
@@ -38,31 +38,12 @@ In microfluidic devices, achieving effective mixing poses significant challenges
 
 There are primarily two types of mixing in microfluidics — Active and Passive mixing. As this device entails only passive mixing, only passive mixing techniques will be described. Passive mixing techniques are all about utilizing geometric features within the microchannels. There are many different types of geometric patterns, all tested for efficacy. The best categories can be described using the table below:
 
-#[Insert image of table here](path/to/your/image.png)
+Please see the image below for reference to my first geometric mixing strategy:
 
-The efficiency of these designs depends on the dimensions and shapes of the channels. For instance, in a zigzag microchannel, the width (w) and the step size (s) are crucial parameters. A narrower width and smaller step size increase the fluid interface, enhancing diffusion and and thus the mixing efficiency.
+![Geometric Mixing Strategy Reference](assets/img/1-s2.0-S026387621830042X-gr7.jpg)
 
-## My Mixing Strategy and Why
+The exact dimensions used in the study can be seen below:
 
-I chose my design based on the work of a few different articles, mainly due to one particular publication — “Mixing enhancement of a novel C-sar microfluidic mixer.” Chemical Engineering Research and Design. The mixing efficiency achieved with the parameters and design in the article was 90% with a wide range of Reynolds numbers ranging from 34.6 to 150. This design using a simple geometric pattern of precisely laid out triangles
-Please see the image below for reference to my first geometric mixing strategy 
+![Dimensions for Microfluidic Device](assets/img/Dimensions_for_MicrofluidicDevice.jpg)
 
-<image: "assets/img/1-s2.0-S026387621830042X-gr7.jpg"
-
-The exact dimensions used in the study can be seen below
-
-<image: "assets/img/Dimensions_for_MicrofluidicDevice.jpg"
-
-However, due to the limitations of the printing technologies made available to me my dimensions are slightly different, see below for my design dimensions
-
-#NOTE: image will be inserted once I am back from Spring Break and have access to the Fusion 360 file on my desktop
-
-The vortex motion results are modeled below
-
-<image: "assets/img/Analysis_of_splitandflow_mixing.jpg"
-
-Using these as models for my work, the parameters of my model can be expressed using the expressions...
-NOTE: Can not view parameters without access to Fusion 360 
-
-Further, the second pattern used in my mixing was a herringbone mixing pattern. My herringbone pattern is modeled after the results of the publicatio
-
+The efficiency of these designs depends on the dimensions and shapes of the channels. For instance, in a zigzag microchannel, the width (w) and the step size (s) are crucial parameters. A narrower width and smaller step size increase the interface between the fluids, enhancing diffusion and thus mixing efficiency.
