@@ -54,4 +54,4 @@ The exact dimensions used in the study can be seen below:
 
 
 
-The efficiency of these designs depends on the dimensions and shapes of the channels. For instance, in a zigzag microchannel, the width (w) and the step size (s) are crucial parameters. A narrower width and smaller step size increase the interface between the fluids, enhancing diffusion and thus mixing efficiency. However, due to the conditions of the printer and limitations of the tools available, I had to parameterize and change the scale of this pattern.
+The efficiency of these designs depends on the dimensions and shapes of the channels. For instance, in a zigzag microchannel, the width (w) and the step size (s) are crucial parameters. A narrower width and smaller step size increase the interface between the fluids, enhancing diffusion and thus mixing efficiency. However, due to the conditions of the printer and limitations of the tools available, I had to parameterize and change the scale of the split and recombine pattern utilized in my own microfluidic pattern.
