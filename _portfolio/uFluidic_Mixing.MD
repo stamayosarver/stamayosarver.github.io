@@ -37,6 +37,7 @@ In microfluidic devices, achieving effective mixing poses significant challenges
 ## Mixing Strategies in Microfluidics
 
 There are primarily two types of mixing in microfluidics — Active and Passive mixing. As this device entails only passive mixing, only passive mixing techniques will be described. Passive mixing techniques are all about utilizing geometric features within the microchannels. There are many different types of geometric patterns, all tested for efficacy. The best categories can be described using the table below:
+
 ![Table 2 from Microfluidic Mixing: A Review](/assets/img/Table - PMC.pdf)
 
 Please see the image below for reference to my first geometric mixing strategy:
