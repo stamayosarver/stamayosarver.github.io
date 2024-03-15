@@ -22,7 +22,6 @@ gallery:
 # Parts List
 
 ## Off the Shelf Parts
-## Off the Shelf Parts
 
 | Part                              | Quantity |
 |:----------------------------------|:---------|
