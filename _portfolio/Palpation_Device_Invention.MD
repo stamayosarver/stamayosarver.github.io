@@ -10,4 +10,4 @@ gallery:
     alt: "A novel device for the remote assessment of patient abdomen pain"
 ---
 
-Due to legal reasons, until the non-provisional patent and publication go public in August. Nothing will be disclosed about the device until the design goes public is cleared.
+Due to legal reasons, nothing will be disclosed about the device until the non-provisional patent and publication go public in August.
