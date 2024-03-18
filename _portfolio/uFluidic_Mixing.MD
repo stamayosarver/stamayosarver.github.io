@@ -28,7 +28,7 @@ Thankfully, with the careful expertise of Dr. David Florian of the Vanderbilt Un
 
 ## Application Requiring Homogeneous Mixing
 
-An important application where laminar mixing is pivotal is preparing reaction mixtures for PCR (Polymerase Chain Reaction) amplification. PCR is used to make many copies of small segments of DNA or RNA. Precise and uniform mixing of the reaction components (DNA template, primers, nucleotides, and high-temp resistant polymerase enzymes) is necessary for the amplification process.
+An important application where laminar mixing is pivotal is preparing reaction mixtures for PCR (Polymerase Chain Reaction) amplification. PCR is used to make many copies of small segments of DNA or RNA. Precise and uniform mixing of the reaction components (DNA template, primers, nucleotides, and high-temp resistant polymerase enzymes) is necessary for the amplification process. I have been fortunate enough to have had experience operating a PCR machine and analyzing results in my AP Bio class in high school and have simulated how the results would be processed using a coding language (R) in a bioinformatics class at Harvard.
 
 ## Challenges of Mixing in Microfluidics
 
@@ -55,6 +55,9 @@ The end product would yield a similar flow as the figure below:
 The exact dimensions used in the study can be seen below:
 
 ![Dimensions for Microfluidic Device](/assets/img/Dimensions_for_MicrofluidicDevice.jpg)
+
+The exact dimensions of my device can be seen in the figure below:
+![Sam's Dimesions for ufluidic device](/assets/img/Sams_Dimensions_for_uFluidics_nonlinerequationsnotincluded.png)
 
 
 
