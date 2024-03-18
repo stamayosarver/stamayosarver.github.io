@@ -38,13 +38,17 @@ In microfluidic devices, achieving effective mixing poses significant challenges
 
 There are primarily two types of mixing in microfluidics — Active and Passive mixing. As this device entails only passive mixing, only passive mixing techniques will be described. Passive mixing techniques are all about utilizing geometric features within the microchannels. There are many different types of geometric patterns, all tested for efficacy. The best categories based off data from the last five years is illustrated in the table below:
 
+In this project, to utilize materials more effectively, we were grouped up in pairs and designed each half of the project separately... The following is a message from the author of the other side of the ufluidic chip: 
+
+> "On the right side of the device, there are two sections arranged in this snake pattern. Each snake pathway is 0.5 mm wide and 0.4 mm tall. This size ensures that the width-to-height ratio stays within the recommended range for successful micro resin printing. It also provides enough space for fluids to flow and for creating various pathways while still being suitable for the resolution of the resin printer. One section has narrower horizontal channels, which layer the fluidic channels and therefore increase the surface area for better mixing. The other section has small ramps called inclined mixers. These mixers help create chaotic movement in the fluid, effectively blending the two liquids together." — Luke Kim describing his mixing strategy
+
 ![Table](/assets/img/PMCTable.png)
 
 Please see the image below for reference to my first geometric mixing strategy:
 
 ![Geometric Mixing Strategy Reference](/assets/img/1-s2.0-S026387621830042X-gr7.jpg)
 
-The end product would yield a simlar flow as the figure below: 
+The end product would yield a similar flow as the figure below: 
 
 ![Geometric Mixing Strategy Reference](/assets/img/Analysis_of_splitandflow_mixing.jpg)
 
