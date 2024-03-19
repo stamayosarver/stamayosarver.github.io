@@ -24,6 +24,8 @@ Microfluidic devices are a groundbreaking invention that has shifted the field o
 
 >"Moreover, the 2-D format of this generalized digital architecture can be adapted via voltage-control software for highly-parallel operation, with reaction-based microdrop mixing, splitting, routing, etc. being carried out simultaneously at multiple on-chip locations. Such digital microfluidic implementations are now being applied to immunoassays (Alphonsus et al., 2010), DNA ligations (which are very sensitive to reagent economy) (Liu et al., 2008), and DNA pyrosequencing (Fair et al., 2007)." — "Digital microfluidics technologies for biomedical devices" in Microfluidic Devices for Biomedical Applications
 
+![Proteins assessed using Microfluidic Devices](assets/img/Common_Diagnostic_Proteins.png)
+
 ## The Challenge of Microfluidic Device Fabrication
 
 However, these microfluidic devices have been very hard to manufacture until recent discoveries and industry developments. See an excerpt of an article below:
