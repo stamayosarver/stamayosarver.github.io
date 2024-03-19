@@ -40,7 +40,7 @@ In microfluidic devices, achieving effective mixing poses significant challenges
 
 ## Mixing Strategies in Microfluidics
 
-There are primarily two types of mixing in microfluidics — Active and Passive mixing. Active mixing includes various ways to create flow through vibration, heat, or magnetism. However, as this device entails only passive mixing, only passive mixing techniques will be described. Passive mixing techniques are all about utilizing geometric features within the microchannels. There are many different types of geometric patterns, all tested for efficacy. The best categories based off data from the last five years is illustrated in the table below:
+There are primarily two types of mixing in microfluidics — Active and Passive mixing. Active mixing includes various ways to create flow through vibration, heat, or emerging radio MEMS techniques. However, as this device entails only passive mixing, only passive mixing techniques will be described. Passive mixing techniques are all about utilizing geometric features within the microchannels. There are many different types of geometric patterns, all tested for efficacy. The best categories based off data from the last five years is illustrated in the table below:
 
 In this project, to utilize materials more effectively, we were grouped up in pairs and designed each half of the project separately... The following is a message from the author of the other side of the ufluidic chip: 
 
@@ -66,8 +66,19 @@ The exact dimensions of my device can be seen in the figure below:
 
 ##Considerations for efficiency
 
-#1. Dimensions and Shapes
-The efficiency of these designs depends on the dimensions and shapes of the channels. For instance, in a zigzag microchannel, the width (w) and the step size (s) are crucial parameters. A narrower width and smaller step size increase the interface between the fluids, enhancing diffusion and thus mixing efficiency. However, due to the conditions of the printer and the limitations of the tools available, I had to parameterize and change the scale of the split and recombine pattern utilized in my own microfluidic pattern. 
+In Fundamentals and Applications of Microfluidics by Nam Trung Nguyen, there are four categories of properties to consider when designing the microfluidic device
+
+#1. Kinematic properties such as linear and angular velocity, vorticity, acceleration, and strain rate;
+#2 Transport properties such as viscosity, thermal conductivity, and diffusivity;
+#3 Thermodynamic properties such as pressure, temperature, and density;
+#4 Miscellaneous properties such as surface tension, vapor pressure, and surface accommodation
+coefficients.
+
+
+To control these properties the following must be controlled precisely,
+
+#1 Dimensions and Shapes
+The efficiency of these designs depend on the dimensions, shapes, and space within the channels. For instance, in a zigzag microchannel, the width (w) and the step size (s) are crucial parameters. A narrower width and smaller step size increase the interface between the fluids, enhancing diffusion and thus mixing efficiency. However, due to the conditions of the printer and the limitations of the tools available, I had to parameterize and change the scale of the split and recombine pattern utilized in my own microfluidic pattern. 
 
 #2 Viscosity
 Viscosity is often described as the resistance to flow. Breaking apart what viscosity is beyond this baseline is crucial to developing a good microfluidic device. The units of viscosity are pascal-seconds, Pascal's units can be further simplified to a final result of Newton-second/square_meter or N*s/(m^2). Looking into the components of viscosity, a hidden figure can be discerned -- stress. Stress is defined as the amount of force over an area, therefore the units Newton/square_meter (N/m^2) can be translated into stress and viscosity can be simplified as Stress * Time. Breaking this apart it is apparant to see viscosity as the amount of force over an area needed to be overcome for a given amount of time to keep a fluid moving.  
