@@ -57,7 +57,7 @@ The exact dimensions used in the study can be seen below:
 ![Dimensions for Microfluidic Device](/assets/img/Dimensions_for_MicrofluidicDevice.jpg)
 
 The exact dimensions of my device can be seen in the figure below:
-![Sam's Dimesions for ufluidic device](/assets/img/Sams_Dimensions_for_uFluidics_nonlinerequationsnotincluded.png)
+![Sam's Dimensions for ufluidic device](/assets/img/Sams_Dimensions_for_uFluidics_nonlinerequationsnotincluded.png)
 
 
 
