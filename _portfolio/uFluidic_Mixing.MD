@@ -16,7 +16,7 @@ gallery:
 
 # Testing the Device Video
 
-[![Testing the device video](path/to/your/image.jpg)](https://photos.app.goo.gl/9h1jWNM5ahvRbLjU8)
+[![Testing the device video](assets/img/Image_for_umixing.png)](https://photos.app.goo.gl/9h1jWNM5ahvRbLjU8)
 
 ## Introduction to Microfluidic Devices
 
