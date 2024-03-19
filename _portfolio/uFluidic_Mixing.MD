@@ -8,8 +8,6 @@ gallery:
   - image_path: "assets/img/uFluidic Device Render.png"
 ---
 
-*Note by Author* - Unfortunately, my current computer, a desktop, cannot access the Fusion 360 file with its current version, until getting back to my dorm from New York after Spring Break or fixing of this apparent bug, renderings and the 3D model will, unfortunately, not be accessible.
-
 # CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e954320b5999ab871?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
@@ -76,14 +74,14 @@ In Fundamentals and Applications of Microfluidics by Nam Trung Nguyen, there are
 1. Kinematic properties such as linear and angular velocity, vorticity, acceleration, and strain rate;
 2. Transport properties such as viscosity, thermal conductivity, and diffusivity;
 3. Thermodynamic properties such as pressure, temperature, and density;
-4. Miscellaneous properties includeing surface tension, vapor pressure, and surface accommodation
+4. Miscellaneous properties, including surface tension, vapor pressure, and surface accommodation
 coefficients.
 
 ### To control these properties, the following must be controlled precisely,
 
 # 1 Dimensions and Shapes
 
-The efficiency of these designs depends on the dimensions, shapes, and space within the channels. For instance, in a zigzag microchannel, the width (w) and the step size (s) are crucial parameters. A narrower width and smaller step size increase the interface between the fluids, enhancing diffusion and, thus mixing efficiency. However, due to the conditions of the printer and the limitations of the tools available, I had to parameterize and change the scale of the split and recombine pattern utilized in my microfluidic pattern.
+The efficiency of these designs depends on the dimensions, shapes, and space within the channels. For instance, in a zigzag microchannel, the width (w) and the step size (s) are crucial parameters. A narrower width and smaller step size increase the interface between the fluids, enhancing diffusion and, thus, mixing efficiency. However, due to the conditions of the printer and the limitations of the tools available, I had to parameterize and change the scale of the split and recombine pattern utilized in my microfluidic pattern.
 
 # Understanding flow: Reynolds numbers, Viscosity, and Flow rate
 
@@ -91,4 +89,4 @@ Viscosity is often described as the resistance to flow. Breaking apart what visc
 
 An understanding of how viscosity affects the property of adhesion from the fluid to the walls is instrumental to creating a microfluidic device that is effective, timely, and cost-efficient. As such, a crucial factor in creating the microfluidic device is the quality of the material. 
 
-> "
+
