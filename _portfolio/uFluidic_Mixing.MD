@@ -69,7 +69,6 @@ The exact dimensions used in the study can be seen below:
 The exact dimensions of my device can be seen in the figure below:
 ![Sam's Dimensions for ufluidic device](/assets/img/Sams_Dimensions_for_uFluidics_nonlinerequationsnotincluded.png)
 
-
 ## Considerations for efficiency
 
 In Fundamentals and Applications of Microfluidics by Nam Trung Nguyen, there are four categories of properties to consider when designing a microfluidic device... 
@@ -80,15 +79,13 @@ In Fundamentals and Applications of Microfluidics by Nam Trung Nguyen, there are
 4. Miscellaneous properties includeing surface tension, vapor pressure, and surface accommodation
 coefficients.
 
-
-###To control these properties, the following must be controlled precisely,
+### To control these properties, the following must be controlled precisely,
 
 # 1 Dimensions and Shapes
 
 The efficiency of these designs depends on the dimensions, shapes, and space within the channels. For instance, in a zigzag microchannel, the width (w) and the step size (s) are crucial parameters. A narrower width and smaller step size increase the interface between the fluids, enhancing diffusion and, thus mixing efficiency. However, due to the conditions of the printer and the limitations of the tools available, I had to parameterize and change the scale of the split and recombine pattern utilized in my microfluidic pattern.
 
 # Understanding flow: Reynolds numbers, Viscosity, and Flow rate
-
 
 Viscosity is often described as the resistance to flow. Breaking apart what viscosity is beyond this baseline is crucial to developing a good microfluidic device. The units of viscosity are pascal-seconds. Pascal's units can be further simplified to a final result of Newton-second/square_meter or N*s/(m^2). A hidden figure can be discerned in viscosity's components: stress. Stress is defined as the amount of force over an area. Therefore, the units Newton/square_meter (N/m^2) can be translated into stress, and viscosity can be simplified as Stress * Time. Breaking this apart, it is apparent that viscosity is the amount of force over an area that needs to be overcome for a given amount of time to keep a fluid moving. If the quality of the print is not great, there will be imperfections and inefficiencies. 
 
