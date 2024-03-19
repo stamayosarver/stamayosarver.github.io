@@ -1,11 +1,11 @@
 ---
-title: "Micro Fluidic Mixing Device"
-excerpt: "Fluidic device which mixes two fluids at a micro scale using homogeneous mixing."
+title: "Test Page"
+excerpt: "Bah bah abha hshdh hs."
 header:
-  image: "assets/img/uFluidic Device Render.png"
-  teaser: "assets/img/uFluidic Device Render.png"
+  image: 
+  teaser: 
 gallery:
-  - image_path: "assets/img/uFluidic Device Render.png"
+  - image_path: 
 ---
 
 *Note by Author* This page being used to test page designs
