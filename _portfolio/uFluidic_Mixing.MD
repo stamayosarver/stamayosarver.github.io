@@ -14,6 +14,10 @@ gallery:
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e954320b5999ab871?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
+# Testing the Device Video
+
+[![Testing the device video](path/to/your/image.jpg)](https://photos.app.goo.gl/9h1jWNM5ahvRbLjU8)
+
 ## Introduction to Microfluidic Devices
 
 Microfluidic devices are a groundbreaking invention that has shifted the field of chemistry, biology, and diagnostics. These simple devices integrate one or several laboratory functions on a single chip smaller than the size of an iPod. A microfluidic device uses microchannels ranging from tens to hundreds of micrometers. These microchannels enable the precise control and manipulation of fluids at a microscale. The critical functionality of microfluidic devices is the ability to create homogeneous mixing of fluids. A homogeneous, laminar flow mixing process is essential for specific chemical reactions, biological assays, drug delivery systems, and biomedical diagnostic devices. For more details on the particular assays and diagnostics that can be carried out, see below.
