@@ -18,17 +18,18 @@ gallery:
 
 ## Introduction to Microfluidic Devices
 
-Microfluidic devices are a groundbreaking invention that has shifted the field of chemistry, biology, and diagnostics. These simple devices integrate one or several laboratory functions on a single chip smaller than the size of an iPod. A microfluidic device uses microchannels ranging from tens to hundreds of micrometers. These microchannels enable the precise control and manipulation of fluids at a microscale. The critical functionality of microfluidic devices is the ability to create homogeneous mixing of fluids. A homogeneous, laminar flow mixing process is essential for specific chemical reactions, biological assays, drug delivery systems, and biomedical diagnostic devices. For more details on the particular assays and diagnostics that can be carried out, see below.
-
->"Moreover, the 2-D format of this generalized digital architecture can be adapted via voltage-control software for highly-parallel operation, with reaction-based microdrop mixing, splitting, routing, etc. being carried out simultaneously at multiple on-chip locations. Such digital microfluidic implementations are now being applied to immunoassays (Alphonsus et al., 2010), DNA ligations (which are very sensitive to reagent economy) (Liu et al., 2008), and DNA pyrosequencing (Fair et al., 2007)." — "Digital microfluidics technologies for biomedical devices" in Microfluidic Devices for Biomedical Applications
+Microfluidic devices are a groundbreaking invention that has shifted the fields of chemistry, biology, and diagnostics. These simple devices integrate one or several laboratory functions on a single chip smaller than an iPod. A microfluidic device uses microchannels ranging from tens to hundreds of micrometers. These microchannels enable the precise control and manipulation of fluids at a microscale. The critical functionality of microfluidic devices is the ability to create homogeneous mixing of fluids. A homogeneous, laminar flow mixing process is essential for specific chemical reactions, biological assays, drug delivery systems, and biomedical diagnostic devices. For more details on the particular assays and diagnostics that can be carried out, please take a look below.
 
 ![Proteins assessed using Microfluidic Devices](/assets/img/Common_Diagnostic_Proteins.png)
+
+> "Moreover, the 2-D format of this generalized digital architecture can be adapted via voltage-control software for highly-parallel operation, with reaction-based microdrop mixing, splitting, routing, etc. being carried out simultaneously at multiple on-chip locations. Such digital microfluidic implementations are now being applied to immunoassays (Alphonsus et al., 2010), DNA ligations (which are very sensitive to reagent economy) (Liu et al., 2008), and DNA pyrosequencing (Fair et al., 2007)." ————  Digital microfluidics technologies for biomedical devices" in Microfluidic Devices for Biomedical Applications
+
 
 ## The Challenge of Microfluidic Device Fabrication
 
 However, these microfluidic devices have been very hard to manufacture until recent discoveries and industry developments. See an excerpt of an article below:
 
-> “Fabrication of microfluidic devices by photolithography generally requires specialized training and access to a cleanroom. As an alternative, 3D printing enables cost-effective fabrication of microdevices with complex features that would be suitable for many biomedical applications.” — “Rapid prototyping of cell culture microdevices using parylene-coated 3D prints” in Lab on a Chip
+> “Fabrication of microfluidic devices by photolithography generally requires specialized training and access to a cleanroom. As an alternative, 3D printing enables cost-effective fabrication of microdevices with complex features that would be suitable for many biomedical applications.” ————  “Rapid prototyping of cell culture microdevices using parylene-coated 3D prints” in Lab on a Chip
 
 Thankfully, with the careful expertise of Dr. David Florian of the Vanderbilt University Biomaterials Department, access to these culture-suitable 3D printing technology was made possible for me, a rising First-Year with little to no access to the more complex machinery and tools.
 
@@ -48,7 +49,7 @@ There are primarily two types of mixing in microfluidics — Active and Passive 
 
 In this project, to utilize materials more effectively, we were grouped up in pairs and designed each half of the project separately... The following is a message from the author of the other side of the ufluidic chip: 
 
-> "On the right side of the device, there are two sections arranged in this snake pattern. Each snake pathway is 0.5 mm wide and 0.4 mm tall. This size ensures that the width-to-height ratio stays within the recommended range for successful micro resin printing. It also provides enough space for fluids to flow and for creating various pathways while still being suitable for the resolution of the resin printer. One section has narrower horizontal channels, which layer the fluidic channels and therefore increase the surface area for better mixing. The other section has small ramps called inclined mixers. These mixers help create chaotic movement in the fluid, effectively blending the two liquids together." — Luke Kim describing his mixing strategy
+> "On the right side of the device, there are two sections arranged in this snake pattern. Each snake pathway is 0.5 mm wide and 0.4 mm tall. This size ensures that the width-to-height ratio stays within the recommended range for successful micro resin printing. It also provides enough space for fluids to flow and for creating various pathways while still being suitable for the resolution of the resin printer. One section has narrower horizontal channels, which layer the fluidic channels and therefore increase the surface area for better mixing. The other section has small ramps called inclined mixers. These mixers help create chaotic movement in the fluid, effectively blending the two liquids together." ———— Luke Kim describing his mixing strategy
 
 ![Table](/assets/img/PMCTable.png)
 
@@ -87,6 +88,12 @@ The efficiency of these designs depends on the dimensions, shapes, and space wit
 
 Viscosity is often described as the resistance to flow. Breaking apart what viscosity is beyond this baseline is crucial to developing a good microfluidic device. The units of viscosity are pascal-seconds. Pascal's units can be further simplified to a final result of Newton-second/square_meter or N*s/(m^2). A hidden figure can be discerned in viscosity's components: stress. Stress is defined as the amount of force over an area. Therefore, the units Newton/square_meter (N/m^2) can be translated into stress, and viscosity can be simplified as Stress * Time. Breaking this apart, it is apparent that viscosity is the amount of force over an area that needs to be overcome for a given amount of time to keep a fluid moving. If the quality of the print is not great, there will be imperfections and inefficiencies. 
 
-An understanding of how viscosity affects the property of adhesion from the fluid to the walls is instrumental to creating a microfluidic device that is effective, timely, and cost-efficient. As such, a crucial factor in creating the microfluidic device is the quality of the material. 
+Understanding how viscosity affects the property of adhesion from the fluid to the walls is instrumental in creating a microfluidic device that is effective, timely, and cost-efficient. As such, a crucial factor in creating the microfluidic device is the quality of the material. Validated in 2021 and again in 2023 by 
+
+> :memo: **Note:** Dr. David Florain, a co-author on the groundbreaking work he did in 2021, has been my professor for the last two semesters in Rapid Prototyping (DF 2100) and Additive and Polymer Manufacturing (CHBE 4200), he is a crucial point on how my microfluidic device came out so well
+
+> "Resin  3D  printing  is  attractive  for  rapid  fabrication  of  microscale  cell  culture devices,  but  common  resin  materials  are  unstable  and  cytotoxic  under  culture  conditions. Strategies such as leaching or over-curing are insufficient to protect sensitive primary cells such as  white  blood  cells.  Here,  we  evaluated  the  effectiveness  of  using  parylene-C  coating  of commercially available  clear resins  to prevent  cytotoxic leaching,  degradation of  microfluidic devices, and absorption of small molecules. We found that parylene-C significantly improved both the cytocompatibility with primary murine white blood cells and the material integrity of prints, while maintaining the favorable optical qualities held by clear resins."  ———— Parylene-C coating protects resin 3D printed devices from materials erosion and prevents cytotoxicity towards primary cells
+
+
 
 
