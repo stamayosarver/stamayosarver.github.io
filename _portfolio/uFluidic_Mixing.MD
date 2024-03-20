@@ -108,6 +108,8 @@ The exact dimensions of my device can be seen in the figure below:
 
 ![Sam's Dimensions for ufluidic device](/assets/img/Parameters_ofufluidic.png)
 
+![Sam's Dimensions for fluidic device](/assets/img/ParametersofufluidicTriangles.png)
+
 #### Strategy B images
 
 Please see the below image for the layout of Geometric Mixing Strategy B that was used in the study
