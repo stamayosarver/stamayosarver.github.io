@@ -112,8 +112,13 @@ The exact dimensions of my device can be seen in the figure below:
 
 Please see the below image for the layout of Geometric Mixing Strategy B that was used in the study
 
+![B pattern i1](/assets/img/Herringbone_mixer_proof_of_mixing.pdf)
 
+![B pattern i2](/assets/img/Image_Pattern_B_Overallparameters.pdf)
 
+![B pattern i3](/assets/img/How_SHM_works.pdf)
+
+![B pattern i4](/assets/img/Flow_of_SHM.jpg)
 
 
 
