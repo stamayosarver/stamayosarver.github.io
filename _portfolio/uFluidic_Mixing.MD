@@ -154,7 +154,7 @@ The exact dimensions of my device can be seen in the figure below:
 
 ## 1. Printing and curing the mold
 
-Af
+After designing the mold in Fusion 360, a SLA printer is used to fabricate the mold using resin. Preform (formlabs) is used to slicing the STL file into a g-code, which is then send to the Form 3 SLA 3D printer. Only a     
 
 
 
