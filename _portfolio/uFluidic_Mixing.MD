@@ -12,6 +12,8 @@ gallery:
 
 ![R2](/assets/img/Render2_ufluidic.png)
 
+[View my Fusion 360 turntable!](https://stamayosarver.github.io/assets/turntable_attempt.html)
+
 <iframe src="/assets/turntable_attempt.html" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 
@@ -141,6 +143,8 @@ The exact dimensions of my device can be seen in the figure below:
 ![Sam's Dimensions for fluidic device](/assets/img/ParametersofufluidicTriangles.png)
 
 ![Sam's Dimensions for fluidic device PB](/assets/img/Dimensions_for_patternB.png)
+
+# Creating the Microfluidic Device
 
 
  
