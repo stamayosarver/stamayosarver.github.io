@@ -11,7 +11,8 @@ gallery:
 ![R1](/assets/img/Render1_ufluidic_device.PNG)
 
 ![R2](/assets/img/Render2_ufluidic.png)
-<iframe src="(/assets/turntable_attempt.html)" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+
+<iframe src="/assets/turntable_attempt.html" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 
 
