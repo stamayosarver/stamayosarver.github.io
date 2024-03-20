@@ -2,10 +2,10 @@
 title: "Micro Fluidic Mixing Device"
 excerpt: "Fluidic device which mixes two fluids at a micro scale using homogenous mixing."
 header:
-  image: "assets/img/uFluidic Device Render.png"
-  teaser: "assets/img/uFluidic Device Render.png"
+  image: "/assets/img/uFluidic Device Render.png"
+  teaser: "/assets/img/uFluidic Device Render.png"
 gallery:
-  - image_path: "assets/img/uFluidic Device Render.png"
+  - image_path: "/assets/img/uFluidic Device Render.png"
 ---
 
 # CAD Model
