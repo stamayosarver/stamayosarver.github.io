@@ -104,15 +104,9 @@ The exact dimensions used in the study for Strategy A can be seen below:
 
 ![Dimensions for Microfluidic Device](/assets/img/Dimensions_for_MicrofluidicDevice.jpg)
 
-The exact dimensions of my device can be seen in the figure below:
-
-![Sam's Dimensions for ufluidic device](/assets/img/Parameters_ofufluidic.png)
-
-![Sam's Dimensions for fluidic device](/assets/img/ParametersofufluidicTriangles.png)
-
 #### Strategy B images
 
-Please see the below image for the layout of Geometric Mixing Strategy B that was used in the study
+Please see the below image for the layout of Geometric Mixing Strategy B that was used in the study.
 
 ![B pattern i1](/assets/img/Herringbone_mixer_proof_of_mixing.png)
 
@@ -121,6 +115,24 @@ Please see the below image for the layout of Geometric Mixing Strategy B that wa
 ![B pattern i3](/assets/img/How_SHM_works.png)
 
 ![B pattern i4](/assets/img/Flow_of_SHM.jpg)
+
+My Patterns:
+
+Getting most of my design based off the design from the studies I would like to point out two differences --- for pattern A, there is a hole extrusion for the 100 by 50 micrometers triangle, the hole's vertices has a leangth of l3 in the diagram above. Making n executive decision I decided not to include this feature despite the rick of creating a less efficient micromixing process because of design constraint by the resin 3D printer. Fearing that a additional extrusion would make the print quality worse, I ommited the feature from my design. For pattern B, I did not change the pattern at all. Instead, I took what a complete group of mixing units used in the study was 4 groups of the two asymmetrical grooves using five grooves for each mixer unit --- I then used the left over space with one additional group and the beginning of my C-SAR pattern.
+
+
+
+My Dimensions can be seen in the following pictures
+
+
+The exact dimensions of my device can be seen in the figure below:
+
+![Sam's Dimensions for ufluidic device](/assets/img/Parameters_ofufluidic.png)
+
+![Sam's Dimensions for fluidic device](/assets/img/ParametersofufluidicTriangles.png)
+
+![Sam's Dimensions for fluidic device PB](/assets/img/Dimensions_for_patternB.png)
+
 
  
 
