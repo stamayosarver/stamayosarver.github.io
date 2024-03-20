@@ -54,3 +54,24 @@ The use of a multistep process incorporating size reduction via a planetary mill
 
 For more details on our approach and ongoing updates, stay tuned to this page.
 
+# Theoretical Device Designs
+
+## Recyling sorter/ powder recyler for powder bed fusion 3D printers
+
+Please see an image of an abstract for the basic idea behind the design 
+
+![Rotational_movement](assets/img/Rotational_mill_motion.png)
+> "Figure 1: Source: Planetary Mill with Friction Wheels Transmission Aided by an Additional Degree of Freedom"
+
+A commercial Planetary Mill can be seen below: 
+![Commercial_Planet_mill](assets/img/Commercial Planetary Mill.png)
+
+
+I can only speculate that a pseudo-design centered around the focus of rotational motion overcoming frictional forces will work for proper separation of powder from the part. At the end of the day, these are two completely different uses; the separation of powder is not even close to a way of mechanochemical mixing. However, the baseline idea in both cases is that the multi-rotational movement can separate fine particles and overcome the attractive forces between finer and less fine (objectively) objects.
+	A conceptual model can be created to validate my idea on the microscale…this may become an integral part of the Mayfield Project for next year. 
+
+
+
+
+
+ 
