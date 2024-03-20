@@ -106,17 +106,17 @@ The exact dimensions used in the study for Strategy A can be seen below:
 
 The exact dimensions of my device can be seen in the figure below:
 
-![Sam's Dimensions for ufluidic device](/assets/img/Sams_Dimensions_for_uFluidics_nonlinerequationsnotincluded.png)
+![Sam's Dimensions for ufluidic device](/assets/img/Parameters_ofufluidic.png)
 
 #### Strategy B images
 
 Please see the below image for the layout of Geometric Mixing Strategy B that was used in the study
 
-![B pattern i1](/assets/img/Herringbone_mixer_proof_of_mixing.pdf)
+![B pattern i1](/assets/img/Herringbone_mixer_proof_of_mixing.png)
 
-![B pattern i2](/assets/img/Image_Pattern_B_Overallparameters.pdf)
+![B pattern i2](/assets/img/Image_Pattern_B_Overallparameters.png)
 
-![B pattern i3](/assets/img/How_SHM_works.pdf)
+![B pattern i3](/assets/img/How_SHM_works.png)
 
 ![B pattern i4](/assets/img/Flow_of_SHM.jpg)
 
