@@ -69,13 +69,13 @@ Please see an simple drawing for the premise behind this theory
 
 ![Rotational_movement](/assets/img/Rotational_mill_motion.png)
 
-> "Figure 1: Source: Planetary Mill with Friction Wheels Transmission Aided by an Additional Degree of Freedom"
+> "Figure 1: Planetary Mill with Friction Wheels Transmission Aided by an Additional Degree of Freedom"
 
 A commercial Planetary Mill can be seen below: 
 
 ![Commercial_Planet_mill](/assets/img/Commercial_Planetary_Mill.png)
 
->"Figure two Source: Shopping section of web browser
+>"Figure 2: Shopping section of web browser
 For more on Doctor Hanusa’s Lab’s usage of planetary mills visit 'MECHANOCHEMICAL SYNTHESIS AND COMPUTATIONAL INVESTIGATION OF ORGANO-MAIN GROUP SPECIES WITH DELOCALIZED LIGANDS By Ross Forrest Koby' "
 
 I can only speculate that a pseudo-design centered around the focus of rotational motion overcoming frictional forces will work for proper separation of powder from the part. At the end of the day, these are two completely different uses; the separation of powder is not even close to a way of mechanochemical mixing. However, the baseline idea in both cases is that the multi-rotational movement can separate fine particles and overcome the attractive forces between finer and less fine (objectively) objects.
