@@ -61,9 +61,11 @@ For more details on our approach and ongoing updates, stay tuned to this page.
 Please see an image of an abstract for the basic idea behind the design 
 
 ![Rotational_movement](assets/img/Rotational_mill_motion.png)
+
 > "Figure 1: Source: Planetary Mill with Friction Wheels Transmission Aided by an Additional Degree of Freedom"
 
 A commercial Planetary Mill can be seen below: 
+
 ![Commercial_Planet_mill](assets/img/Commercial Planetary Mill.png)
 
 
