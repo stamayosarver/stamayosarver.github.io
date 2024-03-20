@@ -54,7 +54,7 @@ In Fundamentals and Applications of Microfluidics by Nam Trung Nguyen, there are
 4. Miscellaneous properties, including surface tension, vapor pressure, and surface accommodation
 coefficients.
 
-### To control these properties, the following must be controlled precisely,
+ > ### * To control these properties, the following must be controlled precisely *
 
 # 1 Dimensions and Shapes
 
@@ -67,27 +67,31 @@ Viscosity is often described as the resistance to flow. Breaking apart what visc
 Understanding how viscosity affects the property of adhesion from the fluid to the walls is instrumental in creating a microfluidic device that is effective, timely, and cost-efficient. As such, a crucial factor in creating the microfluidic device is the quality of the material. Validated in 2021 and again in 2023 by *Rapid prototyping of cell culture microdevices using parylene-coated 3D prints* and *Parylene-C Coating Protects Resin 3D Printed Devices From Materials Erosion and Prevents Cytotoxicity Towards Primary Cells* respectively
 
 
-> "Resin  3D  printing  is  attractive  for  rapid  fabrication  of  microscale  cell  culture devices,  but  common  resin  materials  are  unstable  and  cytotoxic  under  culture  conditions. Strategies such as leaching or over-curing are insufficient to protect sensitive primary cells such as  white  blood  cells.  Here,  we  evaluated  the  effectiveness  of  using  parylene-C  coating  of commercially available  clear resins  to prevent  cytotoxic leaching,  degradation of  microfluidic devices, and absorption of small molecules. We found that parylene-C significantly improved both the cytocompatibility with primary murine white blood cells and the material integrity of prints, while maintaining the favorable optical qualities held by clear resins."  ———— Parylene-C Coating Protects Resin 3D Printed Devices From Materials Erosion and Prevents Cytotoxicity Towards Primary Cells 
+> "Resin  3D  printing  is  attractive  for  rapid  fabrication  of  microscale  cell  culture devices,  but  common  resin  materials  are  unstable  and  cytotoxic  under  culture  conditions...We found that parylene-C significantly improved both the cytocompatibility with primary murine white blood cells and the material integrity of prints, while maintaining the favorable optical qualities held by clear resins."  ———— Parylene-C Coating Protects Resin 3D Printed Devices From Materials Erosion and Prevents Cytotoxicity Towards Primary Cells 
 
 ## Mixing Strategies in Microfluidics
 
 There are primarily two types of mixing in microfluidics — Active and Passive mixing. Active mixing includes various ways to create flow through vibration, heat, or emerging radio MEMS techniques. However, as this device entails only passive mixing, only passive mixing techniques will be described. Passive mixing techniques are all about utilizing geometric features within the microchannels. There are many different types of geometric patterns, all tested for efficacy. The best categories based off data from the last five years is illustrated in the table below:
 
+![Table](/assets/img/PMCTable.png)
+
 In this project, to utilize materials more effectively, we were grouped up in pairs and designed each half of the project separately... The following is a message from the author of the other side of the ufluidic chip: 
 
 > "On the right side of the device, there are two sections arranged in this snake pattern. Each snake pathway is 0.5 mm wide and 0.4 mm tall. This size ensures that the width-to-height ratio stays within the recommended range for successful micro resin printing. It also provides enough space for fluids to flow and for creating various pathways while still being suitable for the resolution of the resin printer. One section has narrower horizontal channels, which layer the fluidic channels and therefore increase the surface area for better mixing. The other section has small ramps called inclined mixers. These mixers help create chaotic movement in the fluid, effectively blending the two liquids together." ———— Luke Kim describing his mixing strategy
 
-![Table](/assets/img/PMCTable.png)
+## Process for designing a microfluidic device
 
-Please see the image below for reference to my first geometric mixing strategy:
+After reading up on the various ideas to consider while designing my microfluidic device, I decided the best course of action for the actual geometric shapes that confide to these rules is to see what is on the current market and why. Then, I found supporting publications to back my design choices further, and then finally used Computer Aided Design and Drafting (CADD) in Fusion 360 to recreate the designs I found. As I wanted my microfluidic device to be unique, I combined two well-supported mixing techniques to create something that could handle a larger range of Reynold's numbers. I will describe my geometric mixing strategies as A and B for simplification.  
+
+Please see the image below for reference to Geometric Mixing Strategy A:
 
 ![Geometric Mixing Strategy Reference](/assets/img/1-s2.0-S026387621830042X-gr7.jpg)
 
-The end product would yield a similar flow as the figure below: 
+Geometric Mixing Strategy is proven to yield a flow shown in the figure below: 
 
 ![Geometric Mixing Strategy Reference](/assets/img/Analysis_of_splitandflow_mixing.jpg)
 
-The exact dimensions used in the study can be seen below:
+The exact dimensions used in the study for Strategy A can be seen below:
 
 ![Dimensions for Microfluidic Device](/assets/img/Dimensions_for_MicrofluidicDevice.jpg)
 
