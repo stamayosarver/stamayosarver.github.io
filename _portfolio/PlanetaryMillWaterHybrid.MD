@@ -66,7 +66,7 @@ Please see an image of an abstract for the basic idea behind the design
 
 A commercial Planetary Mill can be seen below: 
 
-![Commercial_Planet_mill](assets/img/Commercial Planetary Mill.png)
+![Commercial_Planet_mill](assets/img/Commercial_Planetary_Mill.png)
 
 
 I can only speculate that a pseudo-design centered around the focus of rotational motion overcoming frictional forces will work for proper separation of powder from the part. At the end of the day, these are two completely different uses; the separation of powder is not even close to a way of mechanochemical mixing. However, the baseline idea in both cases is that the multi-rotational movement can separate fine particles and overcome the attractive forces between finer and less fine (objectively) objects.
