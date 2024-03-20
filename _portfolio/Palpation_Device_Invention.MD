@@ -2,9 +2,9 @@
 title: "Palpation Device Invention"
 excerpt: "For remote palpation of patients in telehealth"
 header:
-  image: 
-  teaser:
-gallery:
+  image: "assets/img/PalPal_Logo.png"
+  teaser: "assets/img/PalPal_Logo.png"
+gallery: "assets/img/PalPal_Logo.png"
   - url: 
     image_path: 
     alt: "A novel device for the remote assessment of patient abdomen pain"
