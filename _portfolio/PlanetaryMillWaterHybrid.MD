@@ -76,7 +76,7 @@ A commercial Planetary Mill can be seen below:
 ![Commercial_Planet_mill](/assets/img/Commercial_Planetary_Mill.png)
 
 >"Figure two Source: Shopping section of web browser
-For more on Doctor Hanusa’s Lab’s usage of planetary mills visit “MECHANOCHEMICAL SYNTHESIS AND COMPUTATIONAL INVESTIGATION OF ORGANO-MAIN GROUP SPECIES WITH DELOCALIZED LIGANDS By Ross Forrest Koby”"
+For more on Doctor Hanusa’s Lab’s usage of planetary mills visit 'MECHANOCHEMICAL SYNTHESIS AND COMPUTATIONAL INVESTIGATION OF ORGANO-MAIN GROUP SPECIES WITH DELOCALIZED LIGANDS By Ross Forrest Koby' "
 
 I can only speculate that a pseudo-design centered around the focus of rotational motion overcoming frictional forces will work for proper separation of powder from the part. At the end of the day, these are two completely different uses; the separation of powder is not even close to a way of mechanochemical mixing. However, the baseline idea in both cases is that the multi-rotational movement can separate fine particles and overcome the attractive forces between finer and less fine (objectively) objects.
 	A conceptual model can be created to validate my idea on the microscale…this may become an integral part of the Mayfield Project for next year. 
