@@ -38,11 +38,11 @@ An important application where laminar mixing is pivotal is preparing reaction m
 ![Proteins assessed using Microfluidic Devices](/assets/img/Common_Diagnostic_proteins.png)
 
 
-PCR is used to make many copies of small segments of DNA or RNA. Precise and uniform mixing of the reaction components (DNA template, primers, nucleotides, and high-temp resistant polymerase enzymes) is necessary for the amplification process. I have been fortunate enough to have had experience operating a PCR machine and analyzing results in my AP Bio class in high school and have simulated how the results would be processed using a coding language (R) in a bioinformatics class at Harvard.
+PCR is used to make many copies of small segments of DNA or RNA. Precise and uniform mixing of the reaction components (DNA template, primers, nucleotides, and high-temp resistant polymerase enzymes) is necessary for the amplification process. I have been fortunate enough to have had experience operating a PCR machine and analyzing results in my AP Bio class in high school and have simulated how the results would be processed using a coding language (R) in a bioinformatics class at Harvard. I am more than excited to know how to make my own microfluidic devices.
 
 ## Challenges of Mixing in Microfluidics
 
-In microfluidic devices, achieving effective mixing poses significant challenges due to maintaining the laminar flow that dominates at this scale. Unlike turbulent (or chaotic) flow, where the chaotic instabilities create the mixing, laminar flow uses diffusion between orderly layers of fluid to mix. As a result, in microfluidics, the goal of creating geometric shape-specific channels is the key to efficient and effective mixing. 
+In microfluidic devices, achieving effective mixing poses significant challenges due to maintaining the laminar flow that dominates at this scale. Unlike turbulent (or chaotic) flow, where the chaotic instabilities create the mixing, laminar flow uses diffusion between orderly layers of fluid to mix. As a result, in microfluidics, the goal of creating geometric shape-specific channels whilst considering efficiency is the key to efficient and effective mixing. 
 
 ## Considerations for efficiency
 
