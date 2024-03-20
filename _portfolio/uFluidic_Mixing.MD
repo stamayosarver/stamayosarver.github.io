@@ -147,24 +147,26 @@ The exact dimensions of my device can be seen in the figure below:
 # Creating the Microfluidic Device
 ### This process can be divided into 4 parts: 
 
-1. Print and cure mold.
-2. Parylene device.
-3. Cast PDMS.
-4. Plasma bond glass slide. 
+1. Print and cure mold
+2. Parylene device
+3. Cast PDMS
+4. Plasma bond glass slide
 
 ### 1. Printing and curing the mold
 
-After designing the mold in Fusion 360, a SLA printer is used to fabricate the mold using resin. Preform (formlabs) is used to slicing the STL file into a g-code, which is then send to the Form 3 SLA 3D printer. The print is then washed with isopropyl alcohol and placed in the Formlabs UV cure for one minute at 60 C to conclude this step 
+After designing the mold in Fusion 360, an SLA printer is used to fabricate the mold using resin. Preform (formlabs) is used to slice the STL file into a g-code, which is then sent to the Form 3 SLA 3D printer. The print is washed with isopropyl alcohol and placed in the Formlabs UV cure for one minute at 60 C to conclude this step. 
 
 ### 2. Parylene device
 
-After the cure is done, a PDS 200 parylene deposition machine coats the print with parylene-C. In my case, my microfluidic device was not being used to foster cell cultures, if it was going to be used for cell cultures, this step would include a sterilization process using gamm irradiation. 
+After the cure is done, a PDS 200 parylene deposition machine coats the print with parylene-C. In my case, my microfluidic device was not being used to foster cell cultures; if it were going to be used for cell cultures, this step would include a sterilization process using gamma irradiation. 
 
 ### 3. Casting the PDMS
 
-print is placed in a petri dish and polydimethyl siloxane (PDMS) is mixed at a ration of 10:1 from PDMS to curing agent and cured in at 80 degrees Celsius for 3 hours. The PDMS cast is then molded to a glass coverslip using plasma cleaner. 
+The print is placed in a petri dish, and polydimethyl siloxane (PDMS) is mixed at a ratio of 10:1 from PDMS to curing agent and cured in at 80 degrees Celsius for 3 hours.  
 
-### 4. Then, it is sterilized in an autoclave for the finished product.  
+### 4. Plasma bond glass slide
+
+The PDMS cast is then molded to a glass coverslip using plasma cleaner. Then, it is sterilized in an autoclave for the finished product.  
 
 
 
