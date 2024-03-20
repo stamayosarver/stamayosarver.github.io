@@ -1,13 +1,13 @@
 ---
 title: "Revolutionizing Recycling at Vanderbilt"
-excerpt: "Fostering better practices on campus through the development and implementation of novel recycling machines."
+excerpt: "Fostering better practices on campus through developing and implementing novel recycling machines and practices."
 header:
-  image: "assets/img/placeholder_for_recycling_project_overview.webp"
-  teaser: "assets/img/placeholder_for_recycling_teaser.webp"
+  image: "assets/img/Revolutionizing_Recycling_Logo.png"
+  teaser: "assets/img/Revolutionizing_Recycling_Logo.png"
 gallery:
-  - url: "assets/img/placeholder_for_novel_machine_design.webp"
-    image_path: "assets/img/placeholder_for_novel_machine_design.webp"
-    alt: "A conceptual design of a novel recycling machine."
+  - url: "assets/img/Revolutionizing_Recycling_Logo.png"
+    image_path: "assets/img/Revolutionizing_Recycling_Logo.png"
+    alt: "Conceptual designs of a novel recycling machine and theoretical better recycling practices for Vanderbilt campus"
 ---
 
 # Revolutionizing Recycling - The Mayfield Project
@@ -15,6 +15,7 @@ gallery:
 ## Abstract
 
 Plastic management is becoming an increasingly difficult challenge. Our project predicts that by creating better practices, processes, or machines, we can effectively recycle plastic, turning it into a reusable resource. This endeavor requires a comprehensive understanding and a multifaceted approach.
+
 
 ## Introduction
 
@@ -43,30 +44,36 @@ The use of a multistep process incorporating size reduction via a planetary mill
 - **Date**: 02.28.2024
 - **Location**: Vanderbilt University, Mayfield Project
 
-![Project Team](assets/img/placeholder_for_project_team.jpg)
+![Project Team](/assets/img/placeholder_for_project_team.jpg)
 
 *Quotes inspired by the project:*
 
 - "Plastic, it is not going anywhere but is becoming increasingly hard to manage. What can we do?"
 - "Passionate for saving our world, we will investigate, identify, ideate, create, implement, and demonstrate our solutions’ impact."
 
-![Recycling Process](assets/img/placeholder_for_recycling_process.jpg)
+![Recycling Process](/assets/img/placeholder_for_recycling_process.jpg)
 
 For more details on our approach and ongoing updates, stay tuned to this page.
 
 # Theoretical Device Designs
 
+
+
 ## Recyling sorter/ powder recyler for powder bed fusion 3D printers
 
-Please see an image of an abstract for the basic idea behind the design 
+Interestingly, the genesis of my idea originated from an external source. During a brief visit to Dr. Hanusa's mechanochemical laboratory, I encountered my source of inspiration: the planetary milling machine. This device has a fascinating application; it blends materials by overcoming static friction through a reverse rotational motion. Moreover, in many planetary mills, not exclusively in Dr. Hanusa's lab, spherical media within the cylindrical chambers are employed to pulverize materials into extremely fine particles.
 
-![Rotational_movement](assets/img/Rotational_mill_motion.png)
+My proposition aims to tackle a critical global challenge: plastic recycling. Given that plastic will remain a prevalent material for the foreseeable future, my theory focuses on utilizing this innovative mechanical process to enhance recycling methods.
+
+Please see an simple drawing for the premise behind this theory 
+
+![Rotational_movement](/assets/img/Rotational_mill_motion.png)
 
 > "Figure 1: Source: Planetary Mill with Friction Wheels Transmission Aided by an Additional Degree of Freedom"
 
 A commercial Planetary Mill can be seen below: 
 
-![Commercial_Planet_mill](assets/img/Commercial_Planetary_Mill.png)
+![Commercial_Planet_mill](/assets/img/Commercial_Planetary_Mill.png)
 
 
 I can only speculate that a pseudo-design centered around the focus of rotational motion overcoming frictional forces will work for proper separation of powder from the part. At the end of the day, these are two completely different uses; the separation of powder is not even close to a way of mechanochemical mixing. However, the baseline idea in both cases is that the multi-rotational movement can separate fine particles and overcome the attractive forces between finer and less fine (objectively) objects.
