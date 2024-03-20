@@ -120,6 +120,6 @@ Please see the below image for the layout of Geometric Mixing Strategy B that wa
 
 ![B pattern i4](/assets/img/Flow_of_SHM.jpg)
 
-
+ 
 
 
