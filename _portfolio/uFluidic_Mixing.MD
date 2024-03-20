@@ -81,7 +81,16 @@ In this project, to utilize materials more effectively, we were grouped up in pa
 
 ## Process for designing a microfluidic device
 
-After reading up on the various ideas to consider while designing my microfluidic device, I decided the best course of action for the actual geometric shapes that confide to these rules is to see what is on the current market and why. Then, I found supporting publications to back my design choices further, and then finally used Computer Aided Design and Drafting (CADD) in Fusion 360 to recreate the designs I found. As I wanted my microfluidic device to be unique, I combined two well-supported mixing techniques to create something that could handle a larger range of Reynold's numbers. I will describe my geometric mixing strategies as A and B for simplification.  Strategy A involves use of a specific cascaded splitting and recombination (C-SAR) technique that was proven in *Mixing enhancement of a novel C-SAR microfluidic mixer* to have a 90% mixing efficiency in a wide range of Reynolds number (34.6-50); Strategy B involves a staggered herringbone with a specific channel count and layout supported by *Optimized Simulation and Validation of Particle Advection in Asymmetric Staggered Herringbone Type Micromixer*, *A practical guide to the staggered herringbone mixer*, and *A simplified design of the staggered herringbone micromixer for practical applications*
+After reading up on the various ideas to consider while designing my microfluidic device, I decided the best course of action for the actual geometric shapes that confide to these rules is to see what is on the current market and why. Then, I found supporting publications to back my design choices further, and then finally used Computer Aided Design and Drafting (CADD) in Fusion 360 to recreate the designs I found. As I wanted my microfluidic device to be unique, I combined two well-supported mixing techniques to create something that could handle a larger range of Reynold's numbers. I will describe my geometric mixing strategies as A and B for simplification.  Strategy A involves use of a specific cascaded splitting and recombination (C-SAR) technique that was proven in *Mixing enhancement of a novel C-SAR microfluidic mixer* to have a 90% mixing efficiency in a wide range of Reynolds number (34.6-50); Strategy B involves a staggered herringbone mixer (SHM) technique proven in *Optimized Simulation and Validation of Particle Advection in Asymmetric Staggered Herringbone Type Micromixer*, *Quantitative characterization of micromixing simulation*, and *A simplified design of the staggered herringbone micromixer for practical applications* for a 45% mixing efficiency for 5 mixing groups in the SHM layout, this design includes over 65 of these mixing units!
+
+
+> "We proposed a three-inlet planar mixing geometry, named cascaded splitting and recombination (C-SAR). The C-SAR mixer works in a wide range of Reynolds number (34.6–150) with 90% mixing efficiency; the mixing time is as short as sub-milliseconds and sample consumption is as low as a few microliters per second." ———— Mixing enhancement of a novel C-SAR microfluidic mixer
+
+> "It has also been concluded from the simulations that helical flows are affected by the groove geometries, such as the groove depth, width, and inclination,8,10,11 and that the helical flows can occur even when the Reynolds number is low and the Peclet number is high.9,12, 14" ———— Quantitative characterization of micromixing simulation
+
+> "Our test structure—the staggered herringbone micromixer—was integrated into a microfluidic sample preparation system developed for polymer-based photonic biosensor applications in the P3SENS project [30]." ———— Optimized Simulation and Validation of Particle Advection in Asymmetric Staggered Herringbone Type Micromixers
+ 
+#### Strategy A images
 
 Please see the image below for reference to Geometric Mixing Strategy A:
 
@@ -96,7 +105,14 @@ The exact dimensions used in the study for Strategy A can be seen below:
 ![Dimensions for Microfluidic Device](/assets/img/Dimensions_for_MicrofluidicDevice.jpg)
 
 The exact dimensions of my device can be seen in the figure below:
+
 ![Sam's Dimensions for ufluidic device](/assets/img/Sams_Dimensions_for_uFluidics_nonlinerequationsnotincluded.png)
+
+#### Strategy B images
+
+Please see the below image for the layout of Geometric Mixing Strategy B that was used in the study
+
+
 
 
 
