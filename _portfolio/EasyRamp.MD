@@ -19,7 +19,7 @@ By fostering a community of makers and volunteers, Tikkun Olam Makers leverages 
 
 I mainly worked band saw and a metal-capable file. I worked the entirety of the time. I can not help but laugh seeing I worked though bandsawing PVC when President Diermeyer showed up: See the image below...
 
-![Pres D](/Working_Background_TOM.jpg)
+![Pres D](/assets/img/Working_Background_TOM.jpg)
 
 ![Pic of CAD](/assets/img/INSERT HERE)
 
