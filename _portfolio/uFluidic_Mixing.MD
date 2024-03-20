@@ -20,7 +20,7 @@ gallery:
 
 Microfluidic devices are a groundbreaking invention that has shifted the fields of chemistry, biology, and diagnostics. These simple devices integrate one or several laboratory functions on a single chip smaller than an iPod. A microfluidic device uses microchannels ranging from tens to hundreds of micrometers. These microchannels enable the precise control and manipulation of fluids at a microscale. The critical functionality of microfluidic devices is the ability to create homogeneous mixing of fluids. A homogeneous, laminar flow mixing process is essential for specific chemical reactions, biological assays, drug delivery systems, and biomedical diagnostic devices. For more details on the particular assays and diagnostics that can be carried out, please take a look below.
 
-![Proteins assessed using Microfluidic Devices](/assets/img/Common_Diagnostic_Proteins.png)
+![Proteins assessed using Microfluidic Devices](/assets/img/Common_Diagnostic_proteins.png)
 
 > "Moreover, the 2-D format of this generalized digital architecture can be adapted via voltage-control software for highly-parallel operation, with reaction-based microdrop mixing, splitting, routing, etc. being carried out simultaneously at multiple on-chip locations. Such digital microfluidic implementations are now being applied to immunoassays (Alphonsus et al., 2010), DNA ligations (which are very sensitive to reagent economy) (Liu et al., 2008), and DNA pyrosequencing (Fair et al., 2007)." ————  Digital microfluidics technologies for biomedical devices" in Microfluidic Devices for Biomedical Applications
 
