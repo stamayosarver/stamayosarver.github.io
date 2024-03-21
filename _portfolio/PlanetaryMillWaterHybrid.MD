@@ -12,6 +12,8 @@ gallery:
 
 # Revolutionizing Recycling - The Mayfield Project
 
+Please follow this link: https://docs.google.com/document/d/1I-tV-wMuLhn5JVaQ9kOv4VX_d-qTvBTA7HfBN8lHtiY/edit?usp=sharing for the compliment document for more in-depth details.
+
 ## Abstract
 
 Plastic management is becoming an increasingly difficult challenge. Our project predicts that by creating better practices, processes, or machines, we can effectively recycle plastic, turning it into a reusable resource. This endeavor requires a comprehensive understanding and a multifaceted approach.
