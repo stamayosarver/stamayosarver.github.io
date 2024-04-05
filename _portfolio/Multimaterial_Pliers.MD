@@ -41,7 +41,7 @@ By jumping through the hurdle that is a material science, multi-material design,
 
 > “Tell me and I forget, teach me and I may remember, involve me and I learn.” ————Benjamin Franklin.
 
-##My project
+## My project
 
 The creation of ready-to-use multi-material pliers in Dr. David Florian’s Additive and Polymer-manufacturing Technologies class (CHBE 4200) involved being put into the unknown and learning multi-material printing, designing, and material science. The multi-material-pliers design is pictured at the top and included below. 
 
