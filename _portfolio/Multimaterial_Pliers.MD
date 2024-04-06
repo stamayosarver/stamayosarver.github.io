@@ -2,12 +2,20 @@
 title: "Multimaterial Pliers"
 excerpt: "A functional 3D print right off the print bed"
 header:
-  image: assets/img/Samuel_Tamayo-Sarver_Full_Assembly3.png
-  teaser: assets/img/Samuel_Tamayo-Sarver_Full_Assembly3.png
+  image: assets/img/Render.png
+  teaser: assets/img/Render.png
 gallery:
   - image_path: assets/img/Linear-Rod-Actuator-Assembly-Annotated%20(3).png
    
 ---
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ea1a2850a617ed4a8?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+![Real life](/assets/img/mmpliers.jpg)
+
+![Render1](/assets/img/Render1.png)
+
+![Render3](/assets/img/Render3_ufluidic.png)
+
 
 # **Multi-material Printing**
 
