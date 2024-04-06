@@ -5,7 +5,7 @@ header:
   image: assets/img/Render.png
   teaser: assets/img/Render.png
 gallery:
-  - image_path: assets/img/Linear-Rod-Actuator-Assembly-Annotated%20(3).png
+  - image_path: assets/img/Render1.png
    
 ---
 
