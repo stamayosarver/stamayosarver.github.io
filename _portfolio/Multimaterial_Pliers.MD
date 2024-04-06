@@ -9,13 +9,6 @@ gallery:
    
 ---
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ea1a2850a617ed4a8?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-![Real life](/assets/img/mmpliers.jpg)
-
-![Render1](/assets/img/Render1.png)
-
-![Render3](/assets/img/Render3.png)
 
 
 # **Multi-material Printing**
@@ -54,16 +47,23 @@ By jumping through the hurdle that is a material science, multi-material design,
 
 The creation of ready-to-use multi-material pliers in Dr. David Florian’s Additive and Polymer-manufacturing Technologies class (CHBE 4200) involved being put into the unknown and learning multi-material printing, designing, and material science. The multi-material-pliers design is pictured at the top and included below. 
 
-<PICTURE> Insert picture of the pliers 
+
+![Real life](/assets/img/mmpliers.jpg)
+
+![Render1](/assets/img/Render1.png)
+
+![Render3](/assets/img/Render3.png)
 
 Below are two 3D models—model 1 is the design for the class multi-material printer to print, and model 2 is an alternative model for integrating two 3D prints using a standard FDM 3D printer. 
 
-<3D FILE> Model 1 : insert fusion 360 file
-<3D FILE> insert fusion 360 filee
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ea1a2850a617ed4a8?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4c579479f1c5f0df?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 
 Here is a short video showing the plier’s surprising grip strength and functionality. 
 
-<VIDEO> Insert video for grip and functionality. 
+[![Testing the device](/assets/img/mmpliers.jpg)](https://photos.app.goo.gl/RwmULUuQmrHCZvi1A)
+
 
 Design choices 
 
