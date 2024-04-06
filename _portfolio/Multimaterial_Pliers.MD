@@ -10,11 +10,12 @@ gallery:
 ---
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ea1a2850a617ed4a8?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ![Real life](/assets/img/mmpliers.jpg)
 
 ![Render1](/assets/img/Render1.png)
 
-![Render3](/assets/img/Render3_ufluidic.png)
+![Render3](/assets/img/Render3.png)
 
 
 # **Multi-material Printing**
