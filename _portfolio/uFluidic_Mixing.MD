@@ -40,7 +40,7 @@ However, these microfluidic devices have been very hard to manufacture until rec
 
 > “Fabrication of microfluidic devices by photolithography generally requires specialized training and access to a cleanroom. As an alternative, 3D printing enables cost-effective fabrication of microdevices with complex features that would be suitable for many biomedical applications.” ————  “Rapid prototyping of cell culture microdevices using parylene-coated 3D prints” in Lab on a Chip
 
-Thankfully, with the careful expertise of Dr. David Florian of the Vanderbilt University Biomaterials Department, a co-author to the groundbreaking work using perylene-coated 3D prints, access to this culture-suitable 3D printing technology was made possible for me, a rising First-Year with little to no access to the more complex machinery and tools nor expertise to make a resin print to such detail.
+Thankfully, with the careful expertise of Dr. David Florian of the Vanderbilt University Biomaterials Department, a co-author to the groundbreaking work using parylene-coated 3D prints, access to this culture-suitable 3D printing technology was made possible for me, a rising First-Year with little to no access to the more complex machinery and tools nor expertise to make a resin print to such detail.
 
 ## Application Requiring Homogeneous Mixing
 
