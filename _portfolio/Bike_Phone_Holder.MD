@@ -1,16 +1,51 @@
 ---
 title: "Phone Holder for Bike handlebar"
-excerpt: "Learning Top-Down Modeling and Quick prototyping"
+excerpt: "Learning Top-Down Modeling and Quick prototyping."
 header:
-  image: "/assets/img/Render1_ufluidic_device.PNG"
-  teaser: "/assets/img/Render1_ufluidic_device.PNG"
+  image: "/assets/img/Bike_Phone_Assembled_front2.JPEG"
+  teaser: "/assets/img/Bike_Phone_Assembled_front2.JPEG"
 gallery:
-  - image_path: "/assets/img/Render1_ufluidic_device.PNG"
+  - image_path: "/assets/img/Bike_Phone_Assembled_front2.JPEG"
 ---
 
-![R1](/assets/img/Render1_ufluidic_device.PNG)
+![AStandingSide](/assets/img/Bike_Phone_Assembled_Front.JPEG)
 
-![R2](/assets/img/Render2_ufluidic.png)
+![Adown](/assets/img/Bike_Phone_Assembled_Laying_down.JPEG)
+
+![Asidedown](/assets/img/Bike_Phone_Assembled_Laying_down_sideview.JPEG)
+
+![Afront](/assets/img/Bike_Phone_Assembled_front2.JPEG)
+
+![Charger](/assets/img/Bike_Phone_Charger_view.JPEG)
+
+![Dfront](/assets/img/Bike_Phone_Dissasembled.jpg)
+
+![Gripoff](/assets/img/Bike_Phone_Grip-off.JPEG)
+
+![Gripon](/assets/img/Bike_Phone_Grip-on.JPEG)
+
+![Handlebar](/assets/img/Bike_Phone_Handlebar.JPEG)
+
+![Handlebar2](/assets/img/Bike_Phone_Handlebar_view.JPEG)
+
+![Dinternal](/assets/img/Bike_Phone_Internal.jpg)
+
+![DJoint](/assets/img/Bike_Phone_Joint1.jpg)
+
+![Dtighteningmech](/assets/img/Bike_Phone_TighteningMech.JPEG)
+
+![Volume](/assets/img/Bike_Phone_Volume_view.JPEG)
+
+![Dunderphone](/assets/img/Bike_Phone_under_phone_view.jpg)
+
+
+
+
+
+![Afront](/assets/img/Bike_Phone_Assembled_Front.JPEG)
+
+![Afront](/assets/img/Bike_Phone_Assembled_Front.JPEG)
+
 
 (https://stamayosarver.github.io/assets/turntable_attempt.html)
 
@@ -41,8 +76,15 @@ One such technique to create parts really quickly is a methodology called Top Do
 
 See the image below to reference this process.
 
-> "Moreover, the 2-D format of this generalized digital architecture can be adapted via voltage-control software for highly-parallel operation, with reaction-based microdrop mixing, splitting, routing, etc. being carried out simultaneously at multiple on-chip locations. Such digital microfluidic implementations are now being applied to immunoassays (Alphonsus et al., 2010), DNA ligations (which are very sensitive to reagent economy) (Liu et al., 2008), and DNA pyrosequencing (Fair et al., 2007)." ————  Digital microfluidics technologies for biomedical devices" in Microfluidic Devices for Biomedical Applications
+![TopModeling](/assets/img/Top_down_modeling_pic2.png) 
+———— from YouTube; source: ENGINEERING SPIRIT
 
+
+> "Top-Down Advantages  
+References are always correct and can be easily linked. Changing one component will automatically change the others.
+You can work from someone else’s designs without issues
+Time saver – no need to re-draw sketches for reference
+All within one file, easier to edit and make changes" ————  "Top-Down vs Bottom-up Modeling Assemblies" from Product Design Online
 
 ## Microfluidic Device Fabrication at Vanderbilt University
 
