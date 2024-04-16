@@ -16,13 +16,10 @@ gallery:
 
 ![Afront](/assets/img/Bike_Phone_Assembled_front2.JPEG)
 
-![Charger](/assets/img/Bike_Phone_Charger_view.JPEG)
+
 
 ![Dfront](/assets/img/Bike_Phone_Dissasembled.jpg)
 
-![Gripoff](/assets/img/Bike_Phone_Grip-off.JPEG)
-
-![Gripon](/assets/img/Bike_Phone_Grip-on.JPEG)
 
 ![Handlebar](/assets/img/Bike_Phone_Handlebar.JPEG)
 
@@ -34,9 +31,7 @@ gallery:
 
 ![Dtighteningmech](/assets/img/Bike_Phone_TighteningMech.JPEG)
 
-![Volume](/assets/img/Bike_Phone_Volume_view.JPEG)
 
-![Dunderphone](/assets/img/Bike_Phone_under_phone_view.jpg)
 
 
 
@@ -79,26 +74,55 @@ See the image below to reference this process.
 ![TopModeling](/assets/img/Top_down_modeling_pic2.png) 
 ———— from YouTube; source: ENGINEERING SPIRIT
 
-
 > "Top-Down Advantages  
-References are always correct and can be easily linked. Changing one component will automatically change the others.
-You can work from someone else’s designs without issues
-Time saver – no need to re-draw sketches for reference
-All within one file, easier to edit and make changes" ————  "Top-Down vs Bottom-up Modeling Assemblies" from Product Design Online
+>References are always correct and can be easily linked. Changing one component will automatically change the others.
+>You can work from someone else’s designs without issues
+>Time saver – no need to re-draw sketches for reference
+>All within one file, easier to edit and make changes" ————  "Top-Down vs Bottom-up Modeling Assemblies" from Product Design Online
 
-## Microfluidic Device Fabrication at Vanderbilt University
+## Using Top-Down Modeling for Phone Holder Attachment on a Bike
 
-However, these microfluidic devices have been very hard to manufacture until recent discoveries and industry developments. See an excerpt of an article below:
+Top-down modeling was utilized to gain a greater understanding of how to make an assembly work, knowing the relationships between its components and the assembly's end vision. This project was meant to be an introduction to Top-Down Modeling, and as such, I learned a lot about how I process things as with most things in life. I learned the hard way. My first design took a grueling amount of time despite its overall simplicity. This is mainly because I needed an overarching design in mind. I found out through this assignment that the quickest way I digitally prototype is by creating an unconstrained, free-flowing body off of paper sketches and then refining that simple design. Afterward, I start from scratch and can Top Down model the design I have in mind very quickly with parameters, constraints, and the manufacturing processes into account. My first design is pictured below, followed by my second. I have found that starting simple and adding details with complexity at the end is the best way to model things using Top Down Modeling. 
 
-> “Fabrication of microfluidic devices by photolithography generally requires specialized training and access to a cleanroom. As an alternative, 3D printing enables cost-effective fabrication of microdevices with complex features that would be suitable for many biomedical applications.” ————  “Rapid prototyping of cell culture microdevices using parylene-coated 3D prints” in Lab on a Chip
+Insert Fusion 360 file 1
 
-Thankfully, with the careful expertise of Dr. David Florian of the Vanderbilt University Biomaterials Department, a co-author to the groundbreaking work using parylene-coated 3D prints, access to this culture-suitable 3D printing technology was made possible for me, a rising First-Year with little to no access to the more complex machinery and tools nor expertise to make a resin print to such detail.
+Insert File 2
 
-## Application Requiring Homogeneous Mixing
+## My design and choices
 
-An important application where laminar mixing is pivotal is preparing reaction mixtures for PCR (Polymerase Chain Reaction) amplification and more specifically, a reverse transcriptase PCR (RT-PCR). The curret work around RT-PCR being carried out is quite exciting and opens up revenues for the following common analytes that can be found in using a microfluidic device diagnostic tool - please see the image below. 
+There are three aspects important to my design: 
+* The personalized Phone holder 
+* The joint ability 
+* The handlebar adjustment mechanism 
 
-![Proteins assessed using Microfluidic Devices](/assets/img/Common_Diagnostic_proteins.png)
+# The Phone Holder
+
+I opted to use TPU in my design of the phone holder, the TPU is a perfect material to grasp onto my phone and because of rapid prototyping I tested out the fit between the holder and my phone very quickly through the creation of a test model. I then adjusted accordingly to get a perfect fit. Ther main aspect of the phone holder other than the cool grip pictured below.
+
+> Grip Off
+![Gripoff](/assets/img/Bike_Phone_Grip-off.JPEG)
+> Grip On
+![Gripon](/assets/img/Bike_Phone_Grip-on.JPEG)
+
+The second aspect of the phone holder is how it is attached to the central joint, my phone case, pictured below, features a special indented space near the middle of the phone. This indented area was perfect for the height of the M5 screw that was used to attach the grip to the joint. Preferably, a magnetic washer would be used, however, without any washer large enough, I simply 3D printed one out of PLA. Regardless, the screw doubled as a magnet to further hold onto the phone and provide a hidden force to hold the phone. See the picture below:
+
+![Dunderphone](/assets/img/Bike_Phone_under_phone_view.jpg)
+
+The last aspect to mention is the provided area for the volume and power buttons, pictured below: 
+
+> Charger space
+![Charger](/assets/img/Bike_Phone_Charger_view.JPEG)
+
+> Volume space
+![Volume](/assets/img/Bike_Phone_Volume_view.JPEG)
+
+
+# The Joint ability
+
+The joint is made up of three parts, the phone grip/holder, this small cylinder, and the area built into the handlebar connection to hold the pieces together.
+
+The idea behind the joint is that the TPU sleeve area that is a part of the grip/phone holder would provide enough friction 
+
 
 
 PCR is used to make many copies of small segments of DNA or RNA. Precise and uniform mixing of the reaction components (DNA template, primers, nucleotides, and high-temp resistant polymerase enzymes) is necessary for the amplification process. I have been fortunate enough to have had experience operating a PCR machine and analyzing results in my AP Bio class in high school and have simulated how the results would be processed using a coding language (R) in a bioinformatics class at Harvard. I am more than excited to know how to make my own microfluidic devices.
