@@ -112,12 +112,12 @@ The idea behind the joint is that the TPU sleeve area that is a part of the grip
 # Conclusion
 ### To summarize, I found a 4 part top modeling integrated approach made my worktimes quick and efficient: 
 
-1. Skecth up the design on paper and create a mock part in Fusion 360
-2. Decide manufactured parts and materials used in in-house manufacturing
-3. Top-down model each component of the assembly, making sure each component is parameterized and the timeline is kept consistent testing parts for fits if possible
+1. Sketch up the design on paper and create a mock part in Fusion 360
+2. Decide which parts to manufacture or order online. Mainly decide on the type of materials and the constraints for designing around them
+3. Top-down model each component of the assembly, making sure each component is parameterized and the timeline is kept consistent testing parts for fits if possible. Use dummy component prototype whenever possible
 4. Manufacture a prototype version using both in and out-of-house manufacturing facilities
 
-5. An optional 5th option presents itself as I dive deeper into generative modeling, which is bringing the assembly from to the generative modeling workspace to make the part light-weight, cost-efficient, and stronger than the original model.
+5. An optional 5th option presents itself as I dive deeper into generative modeling, which is bringing the assembly from to the generative modeling workspace to make the part lightweight, cost-efficient, and stronger than the original model.
 
 
 
