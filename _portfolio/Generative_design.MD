@@ -2,8 +2,8 @@
 title: "Generative Design"
 excerpt: "Making a cost-effective and strong design using AI in the Generative design for a skateboard truck"
 header:
-  image: assets/img/Render.png
-  teaser: assets/img/Render.png
+  image: assets/img/GenDesign_Truck_picture.png
+  teaser: assets/img/GenDesign_Truck_picture.png
 gallery:
   - image_path: assets/img/Render1.png
    
