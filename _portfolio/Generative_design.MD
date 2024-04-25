@@ -9,7 +9,6 @@ gallery:
    
 ---
 
-
 MAKE PHOTOS USING RENDERING
 
 # **Generative Design**
@@ -24,6 +23,9 @@ Motorcycle Generation
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ec25801b46085779d?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 Applying my skills to something new and unguided, I was tasked to use generative modeling to create a skateboard truck to hold the back wheels and the motor. Please see the image below: 
+image: assets/img/GenDesign_Truck_picture.png
+
+Using generative design I arrived to the following 3D Model: 
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e8ab1fbf7fd528433?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
