@@ -26,7 +26,7 @@ Motorcycle Generation
 
 Applying my skills to something new and unguided, I was tasked to use generative modeling to create a skateboard truck to hold the back wheels and the motor. Please see the image below: 
 
-[Gentruck](/assets/img/GenDesign_Truck_picture.png)
+</assets/img/GenDesign_Truck_picture.png>
 
 Using Generative Design I arrived to the following 3D Model: 
 
