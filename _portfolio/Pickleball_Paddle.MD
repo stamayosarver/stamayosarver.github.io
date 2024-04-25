@@ -16,7 +16,7 @@ gallery:
 
 A pickleball paddle has many very similar features to hand tools and industrial manufacturing tools: a grip, handle, and end for a specific purpose. This can be akin to making a hand tool or tool for something specific. Intentionally, making a Pickleball paddle quickly would be a testament to my learnings as a 3D designer and to my Fusion 360 skills. 
 
-The pickleball paddle starts with a design: modeling off of actual pickleball paddles: as pictured below.
+The pickleball paddle starts with a design modeled of actual pickleball paddles, as pictured below.
 
 
 > Moulded, 3D-printed components make it possible to implement geometries that are only possible with 3D printing in combination with the larger choice of available materials in injection moulding, as all iglidur materials can be selected.
