@@ -9,13 +9,15 @@ gallery:
    
 ---
 Here is a rendering of the Skateboard Motor Mount: 
-[Redering](/assets/img/Skateboard_Motor_Mount.png) 
+
+[Rendering](/assets/img/Skateboard_Motor_Mount.png) 
 
 # **Generative Design**
 
 The Generative Design page in Fusion 360 is a super powerful tool for making an object lightweight, cost-efficient, and strong for the desired purpose. It is part of Fusion 360 and should be utilized after a primary prototype is created. 
 
-Knowledge of how to operate the Generative Design tool in Fusion 360 is essential. I learned to follow along in the Fusion 360 tutorial. If you also want to follow along please see this website: https://www.autodesk.com/learn/ondemand/course/fusion360-generative-design-intro-expert/module/3OKXgzHoU9V26MGcH5lAOe
+Knowledge of how to operate the Generative Design tool in Fusion 360 is essential. I learned to follow along in the Fusion 360 tutorial. If you also want to follow along please see this website: 
+https://www.autodesk.com/learn/ondemand/course/fusion360-generative-design-intro-expert/module/3OKXgzHoU9V26MGcH5lAOe
 
 Here is a file of the motorcycle frame produced through the Fusion 360 tutorial: 
 Motorcycle Generation
@@ -23,7 +25,8 @@ Motorcycle Generation
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ec25801b46085779d?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 Applying my skills to something new and unguided, I was tasked to use generative modeling to create a skateboard truck to hold the back wheels and the motor. Please see the image below: 
-image: assets/img/GenDesign_Truck_picture.png
+
+[image](/assets/img/GenDesign_Truck_picture.png)
 
 Using Generative Design I arrived to the following 3D Model: 
 
