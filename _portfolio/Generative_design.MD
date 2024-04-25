@@ -14,9 +14,9 @@ MAKE PHOTOS USING RENDERING
 
 # **Generative Design**
 
-Generative Design page in Fusion 360 is a super powerful tool that can be used to make an object lightweight, cost-efficient, and strong for the desired purpose. The Generative Design page is a part of Fusion 360 and should be utilized after a primary prototype is created. 
+The Generative Design page in Fusion 360 is a super powerful tool for making an object lightweight, cost-efficient, and strong for the desired purpose. It is part of Fusion 360 and should be utilized after a primary prototype is created. 
 
-Knowledge of how to operate the Generative Design tool in Fusion 360 is essential. I learned following along in the Fusion 360 tutorial. If you also want to follow along please see this website: https://www.autodesk.com/learn/ondemand/course/fusion360-generative-design-intro-expert/module/3OKXgzHoU9V26MGcH5lAOe
+Knowledge of how to operate the Generative Design tool in Fusion 360 is essential. I learned to follow along in the Fusion 360 tutorial. If you also want to follow along please see this website: https://www.autodesk.com/learn/ondemand/course/fusion360-generative-design-intro-expert/module/3OKXgzHoU9V26MGcH5lAOe
 
 Here is a file of the motorcycle frame produced through the Fusion 360 tutorial: 
 Motorcycle Generation
