@@ -8,7 +8,8 @@ gallery:
   - image_path: assets/img/Skateboard_Motor_Mount.png
    
 ---
-
+Here is a rendering of the Skateboard Motor Mount: 
+[Redering](/assets/img/Skateboard_Motor_Mount.png) 
 
 # **Generative Design**
 
@@ -61,7 +62,7 @@ PBF offers a unique additive manufacturing opportunity when coupled with generat
 
 Furthermore, the iterative nature of generative Design aligns well with PBF's rapid prototyping capabilities. Designs can be quickly manufactured, tested, and refined in successive iterations, creating a feedback loop that can rapidly hone in on optimal design solutions. This easy integration between PBF, generative Design, and rapid prototyping makes for a very quick development process and prototyping—essential for fast-paced industries like automotive and startups, where time-to-market and getting the fastest MVP are critical factors.
 
-Generative Design coupled with PBF can lead to optimal solutions for complex problems by minimizing weight, especially for aerospace and the automotive sector. Generative Design can optimize the car's chassis for crashworth
+Generative Design coupled with PBF can lead to optimal solutions for complex problems by minimizing weight, especially for aerospace and the automotive sector. Generative Design can optimize the car's chassis for crashworthy
 
 
 
