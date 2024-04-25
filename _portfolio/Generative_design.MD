@@ -10,7 +10,7 @@ gallery:
 
 Here is a rendering of the Skateboard Motor Mount 
 
-<img src="/assets/img/GenDesign_Truck_picture.png" alt="Description">
+<img src="/assets/img/Skateboard_Motor_Mount.png" alt="Description">
 
 
 # **Generative Design**
