@@ -9,7 +9,6 @@ gallery:
    
 ---
 
-MAKE PHOTOS USING RENDERING
 
 # **Generative Design**
 
