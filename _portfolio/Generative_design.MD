@@ -6,8 +6,8 @@ header:
   teaser: assets/img/Skateboard_Motor_Mount.png
 gallery:
   - image_path: assets/img/Skateboard_Motor_Mount.png
-   
 ---
+
 Here is a rendering of the Skateboard Motor Mount 
 
 [Rendering](/assets/img/Skateboard_Motor_Mount.png) 
