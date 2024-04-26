@@ -8,6 +8,23 @@ gallery:
   - image_path: assets/img/Skateboard_Motor_Mount.png
 ---
 
+
+
+
+
+
+
+
+
+
+
+<img src="/assets/img/Mount_Clearance_Angle.jpg" alt="Description">
+<img src="/assets/img/Mount_Comparison.jpg" alt="Description">
+<img src="/assets/img/Mount_Flat_backangle.jpg" alt="Description">
+<img src="/assets/img/Mount_Lockin_angle.jpg" alt="Description">
+<img src="/assets/img/Mount_back_threedperspective.jpg" alt="Description">
+
+
 Here is a rendering of the Skateboard Motor Mount 
 
 <img src="/assets/img/Skateboard_Motor_Mount.png" alt="Description">
