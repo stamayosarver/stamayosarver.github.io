@@ -2,26 +2,26 @@
 title: "Generative Design"
 excerpt: "Making a cost-effective and strong design using AI in the Generative design for a skateboard truck"
 header:
-  image: assets/img/Skateboard_Motor_Mount.png
-  teaser: assets/img/Skateboard_Motor_Mount.png
+  image: assets/img/Mount_Flat_backangle.jpg
+  teaser: assets/img/Mount_Flat_backangle.jpg
 gallery:
-  - image_path: assets/img/Skateboard_Motor_Mount.png
+  - image_path: assets/img/Mount_Flat_backangle.jpg
 ---
 
 
 
 
 
-
-
-
-
-
-
+Here is showing the clearance hole... I used a star-shaped pattern to provide enough clearance on either side
 <img src="/assets/img/Mount_Clearance_Angle.jpg" alt="Description">
+
+Here is a comparison between a demo motor mount and my motor mount... 
 <img src="/assets/img/Mount_Comparison.jpg" alt="Description">
-<img src="/assets/img/Mount_Flat_backangle.jpg" alt="Description">
+
+
+
 <img src="/assets/img/Mount_Lockin_angle.jpg" alt="Description">
+
 <img src="/assets/img/Mount_back_threedperspective.jpg" alt="Description">
 
 
