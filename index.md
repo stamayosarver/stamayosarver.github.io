@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: " Samuel Tamayo-Sarver is a rising First Year Student at Vandebilt University. He hopes to accomplish amazing things using the knowledge gained from various classes at Vanderbilt. He prides himself on his craftsmanship with a band saw and grinder."
+excerpt: " Samuel Tamayo-Sarver is a rising Second Year Student at Vandebilt University. He hopes to accomplish amazing things using the knowledge gained from various classes at Vanderbilt. He prides himself on his craftsmanship with a soldering, chasing, riveting, embossing, polishing, band saws, grinders, and sanders. At the moment he is preoccupied with becoming an EMT and summer classes, but he looks forward to making his own 3-D printer using his CR-10S Pro V2 printer at home and then inventing a unique foam-casting machine after finishing the EMT program."
 feature_row:
   - image_path: assets/img/PXL_20210510_210427036.jpg
     alt: "At-Home Workshop"
