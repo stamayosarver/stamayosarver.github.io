@@ -1,5 +1,5 @@
 ---
-title: "Sam's Gimmicks and Innovations"
+title: "Invigorate Health"
 layout: splash
 header:
   overlay_color: "#000"
