@@ -8,6 +8,9 @@ gallery:
   - image_path: "/assets/img/Render1_ufluidic_device.PNG"
 ---
 
+
+CURRENT UPDATE: This project is low priority for me but I think I have figured out the problem, being the one in this youtube video  https://www.youtube.com/watch?v=2R8hKdGTIgQ  ; the fuse is definetely broken and the capicitors look slightly inflated but do not look like the other broken capacitors I've seen. I am waiting for the new parts to arrive, then will fix the images, text, and summarize the fix
+
 ![R1](/assets/img/Render1_ufluidic_device.PNG)
 
 ![R2](/assets/img/Render2_ufluidic.png)
