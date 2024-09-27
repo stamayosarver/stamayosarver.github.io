@@ -11,4 +11,4 @@ gallery:
 ---
 
 
-Due to legal reasons, nothing will be disclosed about the device until the non-provisional patent and publication go public in August.
+Due to legal reasons, the device will not be disclosed until the non-provisional patent and publication go public.
