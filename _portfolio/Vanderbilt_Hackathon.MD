@@ -1,6 +1,6 @@
 ---
-title: "Micro Fluidic Mixing Device"
-excerpt: "Fluidic device which mixes two fluids at a micro scale using homogenous mixing."
+title: "Vanderbilt Hackathon"
+excerpt: "Learning how to code specifically with MongoDB, ChatGPT wrapper, APIs, and more."
 header:
   image: "/assets/img/Render1_ufluidic_device.PNG"
   teaser: "/assets/img/Render1_ufluidic_device.PNG"
@@ -19,7 +19,21 @@ gallery:
 
 
 
-# CAD Model
+# Introduction
+
+Vanderbilt has the incredible opportunity to offer a Vanderbilt Hackathon --- a competition where students compete in groups of four to create a progem, webpage, or app that suits a specific theme while using a sponsor's endpoints or software. 
+
+My team consisted of Ryan McCauley, Bruce ____, and Harry ____, as well as myself.
+
+After a ideation session lasting over breakfast we determined that we wanted to make a financial aid advisor --- we then got to work planning the intricacies of the project. 
+
+![Image_of_Whitboard](/assets/img/Render1_ufluidic_device.PNG)
+
+
+
+
+
+
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e954320b5999ab871?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
