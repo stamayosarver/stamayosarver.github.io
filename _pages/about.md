@@ -6,7 +6,7 @@ title: "About Samuel Tamayo-Sarver"
 
 ## Education
 
-Samuel's skills are developing at Vanderbilt University; at the moment, Sam's greatest skill lies in woodworking, 3-D printing, and 3-D modeling (CADD) 
+Samuel's skills are developing at Vanderbilt University; at the moment, Sam's greatest skills lies in woodworking, 3-D printing, and 3-D modeling (CADD) 
 
 * Vanderbilt University
   * Expected Graduating Class of 2027
@@ -14,7 +14,7 @@ Samuel's skills are developing at Vanderbilt University; at the moment, Sam's gr
 
 ## About 
 
-I abide by three rules in life; first, work harder than everyone else; second, be ready for what life brings; and third, have fun! As an employee, I can guarantee I will work hard, prepare for whatever job or assignment is given, and be a curious, passionate, and dedicated employee. 
+I abide by three rules in life; first, work harder than everyone else; second, be ready for what life brings; and third, have fun! As an employee, I can guarantee I will do whatever it takes to bring value to your company, prepare for whatever job or assignment is given, and be a curious, passionate, and dedicated employee. 
 
 I believe in the idea "One must have a direction to change directions." In other words, I plan to obtain a Ph.D. in some field of Biology or Chemistry to accomplish great feats and improve the circumstances of our world. 
 

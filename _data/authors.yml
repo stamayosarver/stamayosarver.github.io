@@ -1,13 +1,13 @@
 # Authors
 
-Billy Rick:
-  name        : "Billy Rick"
-  bio         : "What do you want, jewels? I am a very extravagant man."
+SamWhateverItTakesWillington:
+  name        : "Samuel Tamayo-Sarver"
+  bio         : "Capable of learning and therefore capable of anything."
   avatar      : "/assets/img/Sam_Professional_Photo_1.18.24.JPG"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
+      url: "mailto:samuel.tamayo-sarver@vanderbilt.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://thewhip.com"
