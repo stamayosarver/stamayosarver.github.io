@@ -24,34 +24,34 @@ This is just to satisfy my curiosity and I want a Raspberry Pi anyway for future
 
 The following is a rough procedure: 
 
-1. Choose your SoC device:
+## 1. Choose your SoC device:
 For the low-budget 
 > ### * Consider affordable options like Odroid C4, Libre board, or OrangePi fotr budget friendly as well as a cheap sd card and 3D print the case *
 ### * For the 'actual-budget' way I will be getting a Rasberry Pi 4 8 GB mini PC, Flirc Rasberry Pi 4 Case, and some >100 GB SSD*
 
 
-2. Set up the SoC device:
+## 2. Set up the SoC device:
 
-* Install a lightweight Linux distribution suitable for your chosen device
-Enable SSH for remote access
-Configure Wi-Fi and set up dynamic DNS for remote access without a static IP, or ethernet if SoC has those capabilities
+* Install a lightweight Linux distribution suitable for your chosen device<br> 
+a. Enable SSH for remote access <br> 
+b. Configure Wi-Fi and set up dynamic DNS for remote access without a static IP, or ethernet if SoC has those capabilities<br> 
 
 * Install MongoDB:
 ex/ 
 
-bash
-sudo apt update && sudo apt upgrade -y
-sudo apt install mongodb
-sudo systemctl start mongodb
-sudo systemctl enable mongodb
+bash<br> 
+sudo apt update && sudo apt upgrade -y<br> 
+sudo apt install mongodb<br> 
+sudo systemctl start mongodb<br> 
+sudo systemctl enable mongodb<br> 
 
 *Install Redis Stack (includes Redis Search):
 
-ex/ 
-bash
-docker run -d --name redis-stack -p 6379:6379 redis/redis-stack:latest
+ex/ <br> 
+bash<br> 
+docker run -d --name redis-stack -p 6379:6379 redis/redis-stack:latest<br> 
 
-3. Set up Obsidian on your local machine:  <br> 
+## 3. Set up Obsidian on your local machine:  <br> 
 a. Download and install Obsidian  <br> 
 b. Create a new vault for your secondary brain  <br> 
 c. Install and configure the Obsidian Self-Sync plugin:  <br> 
@@ -72,7 +72,7 @@ p. Create an index for your data: <br>
 text <br> 
 FT.CREATE notes ON HASH PREFIX 1 note: SCHEMA title TEXT SORTABLE content TEXT
 
-4. Implement a script to sync data between MongoDB and Redis for efficient searching<br> 
+## 4. Implement a script to sync data between MongoDB and Redis for efficient searching<br> 
 Enhance Obsidian setup:<br> 
 a. Install the "Mind Map" community plugin for visual mind mapping<br> 
 b. Set up templates for consistent note-taking<br> 
