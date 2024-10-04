@@ -38,6 +38,7 @@ Configure Wi-Fi and set up dynamic DNS for remote access without a static IP, or
 
 * Install MongoDB:
 ex/ 
+
 bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install mongodb
@@ -45,50 +46,52 @@ sudo systemctl start mongodb
 sudo systemctl enable mongodb
 
 *Install Redis Stack (includes Redis Search):
+
 ex/ 
 bash
 docker run -d --name redis-stack -p 6379:6379 redis/redis-stack:latest
 
-3. Set up Obsidian on your local machine:
-a. Download and install Obsidian
-b. Create a new vault for your secondary brain
-c. Install and configure the Obsidian Self-Sync plugin:
-d. Install the plugin from the community plugins section
-e. Configure it to sync with your MongoDB instance on the SoC device
-f. Set up a simple API for MongoDB interaction:
-g. Install Node.js and npm on your SoC device
-h. Create a basic Express.js application for CRUD operations on MongoDB
-i. Implement data ingestion:
-j. If you have existing mind maps (e.g., from Mindjet MindManager): Export them to markdown-formatted ordered lists
-k. Use a script to import these into your Obsidian vault
-l. For web content ingestion:
-m. Set up Puppeteer on your SoC device for web scraping
-n. Create scripts to process and store scraped data in MongoDB
-o. Configure Redis Search:
-p. Create an index for your data:
-text
+3. Set up Obsidian on your local machine:  <br> 
+a. Download and install Obsidian  <br> 
+b. Create a new vault for your secondary brain  <br> 
+c. Install and configure the Obsidian Self-Sync plugin:  <br> 
+d. Install the plugin from the community plugins section  <br> 
+e. Configure it to sync with your MongoDB instance on the SoC device  <br> 
+f. Set up a simple API for MongoDB interaction:  <br> 
+g. Install Node.js and npm on your SoC device  <br> 
+h. Create a basic Express.js application for CRUD operations on MongoDB  <br> 
+i. Implement data ingestion:  <br> 
+j. If you have existing mind maps (e.g., from Mindjet MindManager): Export them to markdown-formatted ordered lists <br> 
+k. Use a script to import these into your Obsidian vault <br> 
+l. For web content ingestion: <br> 
+m. Set up Puppeteer on your SoC device for web scraping <br> 
+n. Create scripts to process and store scraped data in MongoDB <br> 
+o. Configure Redis Search: <br> 
+p. Create an index for your data: <br> 
+
+text <br> 
 FT.CREATE notes ON HASH PREFIX 1 note: SCHEMA title TEXT SORTABLE content TEXT
 
-4. Implement a script to sync data between MongoDB and Redis for efficient searching
-Enhance Obsidian setup:
-a. Install the "Mind Map" community plugin for visual mind mapping
-b. Set up templates for consistent note-taking
-c. Implement a tagging system for better organization
-d. Create automation scripts:
-e. Set up cron jobs on your SoC device for:
-f. Regular syncing between Obsidian and MongoDB
-e. Updating Redis Search index
-g. Web content scraping (if implemented)
-h. Implement security measures:
-    i. Set up a firewall on your SoC device
-    ii. Use HTTPS for any web interfaces
-    iii. Implement strong authentication for API access
-i. Optional enhancements:
-    i. Consider using MongoDB Atlas for vector storage to enable semantic search
-    ii. Experiment with local language models like Qwen coder or Deepseek for AI-assisted tasks
-j. Documentation:
--Create a detailed guide in your Obsidian vault documenting your setup process
--Include troubleshooting tips and maintenance procedures
+4. Implement a script to sync data between MongoDB and Redis for efficient searching<br> 
+Enhance Obsidian setup:<br> 
+a. Install the "Mind Map" community plugin for visual mind mapping<br> 
+b. Set up templates for consistent note-taking<br> 
+c. Implement a tagging system for better organization<br> 
+d. Create automation scripts:<br> 
+e. Set up cron jobs on your SoC device for:  <br> 
+f. Regular syncing between Obsidian and MongoDB  <br> 
+e. Updating Redis Search index  <br> 
+g. Web content scraping (if implemented)  <br> 
+h. Implement security measures:  <br> 
+    i. Set up a firewall on your SoC device  <br> 
+    ii. Use HTTPS for any web interfaces  <br> 
+    iii. Implement strong authentication for API access  <br> 
+i. Optional enhancements:  <br> 
+    i. Consider using MongoDB Atlas for vector storage to enable semantic search <br> 
+    ii. Experiment with local language models like Qwen coder or Deepseek for AI-assisted tasks  <br> 
+j. Documentation:  <br> 
+-Create a detailed guide in your Obsidian vault documenting your setup process  <br> 
+-Include troubleshooting tips and maintenance procedures  <br> 
 
 
 By following these steps, you'll have a powerful, private, and flexible secondary brain system. This setup allows you to leverage the strengths of Obsidian for note-taking and mind mapping, while using MongoDB and Redis for efficient data storage and retrieval. The use of an affordable SoC device keeps the costs down while providing a dedicated server for your personal knowledge management system.
