@@ -26,8 +26,8 @@ Vanderbilt has the incredible opportunity to offer a Vanderbilt Hackathon --- a 
 My team consisted of Ryan McCauley, Bruce ____, and Harry ____, as well as myself.
 
 After a ideation session lasting over breakfast we determined that we wanted to make a financial aid advisor --- we then got to work planning the intricacies of the project. 
-
-The idea was simple: Ryan's wife was visiting and she, like many other people who know how helpful ChatGPT is, they often upload important legal documents and/or the various financial data around the idea of using ChatGPT as a financial advisor. We wanted to solve this problem and further, as we discussed, make it easier to use for everyone. Not just millenials that use Chat GPT
+Markdown: Open Preview to the SideMarkdown: Open Preview to the SideMarkdown: Open Preview to the SideMarkdown: Open Preview to the SideMarkdown: Open Preview to the SideMarkdown: Open Preview to the SideMarkdown: Open Preview to the SideMarkdown: Open Preview to the SideMarkdown: Open Preview to the SideMarkdown: Open Preview to the SideMarkdown: Open Preview to the SideMarkdown: Open Preview to the SideMarkdown: Open Preview to the Side
+The idea was simple: Ryan's wife was visiting and she, like many other people who know how helpful ChatGPT is, they often upload important legal documents and/or the various financial data around the idea of using ChatGPT as a financial advisor. We wanted to solve this problem and further, as we discussed, make it easier to use for everyone. Not just millenials that use Chat GPT,  but also for the less technically capable.
 
 After a full day of writing things out on a whiteboard, we determined 3 key things
 
@@ -39,7 +39,7 @@ We wanted to accomplish a couple of things with this project --- that is, we saw
 
 
 
-![Image_of_Whitboard](/assets/img/Render1_ufluidic_device.PNG)
+![Image_of_Whiteboard](/assets/img/Render1_ufluidic_device.PNG)
 
 
 

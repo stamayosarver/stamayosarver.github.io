@@ -20,7 +20,7 @@ I believe in the idea "One must have a direction to change directions." In other
 
 ## Objective Statement 
 
-I hope to work in the biotechnology industry for product development or invent something profitable 
+I hope to work in the biotechnology industry for product development, solve problems through statistics, or invent something profitable
 
 ## Technical Skills
 

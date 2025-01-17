@@ -10,19 +10,23 @@ gallery:
     alt: "Conceptual designs of a novel recycling machine and theoretical better recycling practices for Vanderbilt campus"
 ---
 
-#Abstract
+# Abstract
 
-I will be developing my own second brain in two ways to prove that anyone can do this, as well as show my step-by-step process of setting it up so you can too 
+How often have you struggled to recall a name of a colleague or teamate, a useful takeaway from a presentation, or where you put your car keys. In the information age, the amount of information that our minds and brains have access to and utilize is immense. Forgetfulness seems to become ever more common --- especially as a curious college student consuming any information I can get my hands on --- books, podcasts, articles, videos, and much more. Simply glancing at the Pubmed database will show the insane amount of information available to us. And this availabilty of information has been further increased by the use of LLMs. With recent 'reasoning' models like o1, Gemini 2.0, and Llama 3.3 letting anyone with a decent question get a good answer. Deepseek, Groq, and Jan have only made these models even better and have sparked innovative ways to answer questions. With information being poured into my head all the time, I have decided to solve my problems and make forgetting names a thing of the past with my Second Brain.
+
+I will be developing not one, but two second brains to prove that anyone can do this, as well as show my step-by-step process of setting it up so you can too --- at the time of posting this project a year ago, there was not much out there on Second Brains, however, Tiago Forte has developed methods I hope to modify or build upon. I will be referencing his books: *Building a Second Brain* and *The PARA Method*.
+
+![Building a Second Brain by Tiago Forte](assets/img/Tiago_Forte_Book.png)
 
 I will be doing this project two ways to prove it can work: 
 
 1. The low-budget way 
 2. The 'has-an-actual-budget' way 
 
-This is just to satisfy my curiosity and I want a Raspberry Pi anyway for future projects (I forsee it running off the low budget way well enough and will likely repurpose the Rasberry Pi for a different project) What blew my mind was that the entirety of Wikipedia can be fit on a 100 Gbs of memory, my hypothesis is to prove a powerful 'second brain' can be run on minimal expenses in today's modern tech world
+This is just to satisfy my curiosity and I want a Raspberry Pi anyway for future projects (I forsee it running off the low budget way well enough and will likely repurpose the Rasberry Pi for a different project). The entirety of Wikipedia can be fit on a 100 Gbs of memory, my hypothesis is to prove a powerful 'second brain' is crucial in today's modern tech world and make your life easier for little to no matenance and minimal expenses.
 
 
-The following is a rough procedure: 
+The following is a rough procedure you can follow:
 
 ## 1. Choose your SoC device:
 For the low-budget 

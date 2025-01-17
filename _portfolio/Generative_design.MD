@@ -10,7 +10,8 @@ gallery:
 
 
 
-
+### Project Purpose
+The purpose of this project was to learn how to create study-sets where simulated forces are applied to the 3D model in Fusion 360, get familiar with odd units like N-m or Newtons of force, and apply a study set to generate using generative design motor mount and wheel holder for a skateboard 
 
 Here is showing the clearance hole... I used a star-shaped pattern to provide enough clearance on either side
 <img src="/assets/img/Mount_Clearance_Angle.jpg" alt="Description">
