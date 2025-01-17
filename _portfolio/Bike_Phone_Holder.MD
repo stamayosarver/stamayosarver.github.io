@@ -16,10 +16,6 @@ gallery:
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e13566534c3845fc9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Testing the Device Video
-
-[![Testing the device video](/assets/img/Image_for_umixing.png)](https://photos.app.goo.gl/9h1jWNM5ahvRbLjU8)
-
 ## Introduction to Rapid Prototyping
 
 Rapid Prototyping is the process of quickly making a baseline prototype, proof of concept, or minimum viable product; however, 3D printing a whole prototype or product is not a quick process at all and can take days or weeks even to assemble. So what makes "Rapid Prototyping" so rapid?
