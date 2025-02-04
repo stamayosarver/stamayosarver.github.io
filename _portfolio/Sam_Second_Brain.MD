@@ -2,11 +2,11 @@
 title: "Developing a Second Brain"
 excerpt: "Creating a second brain using a SoC or Rasperry Pi mini PC, MongoDB, Obsidian and building from there"
 header:
-  image: "assets/img/Revolutionizing_Recycling_Logo.png"
-  teaser: "assets/img/Revolutionizing_Recycling_Logo.png"
+  image: "assets/img/Digital_Second_Brian.png"
+  teaser: "assets/img/Digital_Second_Brian.png"
 gallery:
-  - url: "assets/img/Revolutionizing_Recycling_Logo.png"
-    image_path: "assets/img/Revolutionizing_Recycling_Logo.png"
+  - url: "assets/img/Digital_Second_Brian.png"
+    image_path: "assets/img/Digital_Second_Brian.png"
     alt: "Conceptual designs of a novel recycling machine and theoretical better recycling practices for Vanderbilt campus"
 ---
 
@@ -16,7 +16,7 @@ How often have you struggled to recall a name of a colleague or teamate, a usefu
 
 I will be developing not one, but two second brains to prove that anyone can do this, as well as show my step-by-step process of setting it up so you can too --- at the time of posting this project a year ago, there was not much out there on Second Brains, however, Tiago Forte has developed methods I hope to modify or build upon. I will be referencing his books: *Building a Second Brain* and *The PARA Method*.
 
-![Building a Second Brain by Tiago Forte](assets/img/Tiago_Forte_Book.png)
+![Building a Second Brain by Tiago Forte](/assets/img/Tiago_Forte_Book.png)
 
 I will be doing this project two ways to prove it can work: 
 
