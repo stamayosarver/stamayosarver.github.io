@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: " Samuel Tamayo-Sarver is a rising Second Year Student at Vandebilt University. He prides himself on his craftsmanship with a soldering, chasing, riveting, embossing, polishing, band saws, grinders, and sanders. At the moment he is busy, apart from 18 credit hours with 3 labs at Vanderbilt, doing product development in BLE technology using nRF-52840 modules and passion projects of making his own digital second brain using mindmaps and Rasberry Pi, Revolutionizing Recylcing Mayfield project, and creating a porgram for custom cases done easy"
+excerpt: " Samuel Tamayo-Sarver is a rising Third Year Student at Vanderbilt University. He prides himself on his craftsmanship with soldering, chasing, riveting, embossing, polishing, band saws, grinders, and sanders."
 feature_row:
   - image_path: assets/img/PXL_20210510_210427036.jpg
     alt: "At-Home Workshop"
